@@ -1,8 +1,8 @@
+![IMAGE_DESCRIPTION](https://gitlab.com/uploads/-/system/project/avatar/62144433/play_store_512.png?width=96)
+
 # YouTube Origin for Google TV
 
 This project allows you to enjoy YouTube on Google TV without any advertisements, providing a seamless and uninterrupted viewing experience.
-
-![IMAGE_DESCRIPTION](https://gitlab.com/uploads/-/system/project/avatar/62144433/play_store_512.png?width=96)
 
 ## Features:
 - Watch YouTube without ads
