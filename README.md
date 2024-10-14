@@ -5,7 +5,7 @@ This project allows you to enjoy YouTube on Google TV without any advertisements
 ## Features:
 - Watch YouTube without ads
 - Compatible with Google TV
-- Support VP9, AV1 codecs (require official devices)
+- Support VP9, AV1 codecs (require verified devices)
 - SponsorBlock
 - Adjust video speed using the **Up and Down buttons** on the remote
 
