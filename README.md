@@ -9,7 +9,7 @@ This project allows you to enjoy YouTube on Google TV without any ads, providing
 - Support VP9, AV1 codecs (require verified devices)
 - Block ads with uBlock Origin
 - Skip sponsor segments with SponsorBlock
-- Adjust video speed using **Up and Down buttons** on the remote
+- Adjust video speed using **Up and Down buttons** (up to ∞) on the remote with Youtube Speed Control
 
 ## Requirements:
 - Android 9+ (Google TV, FireOS, Android TV, Android tablets)
