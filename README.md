@@ -1,45 +1,49 @@
 # YouTube Origin for Google TV
 
-This project allows you to enjoy YouTube on Google TV without any advertisements, providing a seamless and uninterrupted viewing experience.
+This project allows you to enjoy YouTube on Google TV without any ads, providing a seamless and uninterrupted viewing experience.
 
 ## Features:
 - Watch YouTube without ads
-- Compatible with Google TV
+- Compatible with Google TV, Android TV
+- Original UI
 - Support VP9, AV1 codecs (require verified devices)
-- SponsorBlock
-- Adjust video speed using the **Up and Down buttons** on the remote
+- Block ads with uBlock Origin
+- Skip sponsor segments with SponsorBlock
+- Adjust video speed using **Up and Down buttons** on the remote
 
-## Software Requirements:
-- Android 9 or higher
+## Requirements:
+- Android 9+ (Google TV, FireOS, Android TV, Android Mobile)
+
+- Require Bluetooth remote to use YouTube Origin.
 
 ## Hardware Requirements:
 
 ### For ARM-based Devices:
-- Minimum 2x Cortex-A78 cores, 6x Cortex-A55 cores (Tested)
+- Minimum 2x Cortex-A76 cores, 6x Cortex-A55 cores (Tested)
 - 4GB DDR4 RAM
-- UFS storage
+- Require UFS storage
 
 ### For x86-based Devices:
 - Minimum Intel Core i3 8th Gen (Tested)
 - 4GB RAM
 - 64GB SSD storage
 
-## Installation Instructions:
+## Installation:
 
 ### 1. Install the "Send Files to TV" App:
 Download and install the **"Send Files to TV"** app on both your Android phone and Google TV.
 
-Download YouTube Origin:
-**[YouTube Origin v1.3.1](https://mega.nz/file/4ppRxLIB#lN-op-qWrMvHzOY9rEiYOcwF2CyzAj7y7GuUSyGpZSE)**
+### 2. Download YouTube Origin:
+**[YouTube Origin v1.3.1 (Mega)](https://mega.nz/file/4ppRxLIB#lN-op-qWrMvHzOY9rEiYOcwF2CyzAj7y7GuUSyGpZSE)** `619.7MB`
 
-### 2. Transfer the APK:
+### 3. Transfer the APK:
 Use the **"Send Files to TV"** app to send the APK file to your Google TV.
 
-### 3. Install the APK on Google TV:
+### 4. Install the APK on Google TV:
 Once the APK file is transferred, simply click **Install** to begin the installation process.
 
-### 4. Finished:
-After the installation is complete, launch the app to begin enjoying an ad-free YouTube experience.
+### 5. Done:
+After installation, launch app to enjoy YouTube Origin.
 
 
 ---
