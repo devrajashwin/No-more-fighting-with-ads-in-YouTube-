@@ -16,8 +16,6 @@ This project allows you to enjoy YouTube on Google TV without any ads, providing
 
 - Require Bluetooth remote to use YouTube Origin.
 
-![androidauthority](https://www.androidauthority.com/wp-content/uploads/2024/05/Onn-Pro-4K-05-1920w-1080h.jpg.webp)
-
 ## Hardware Requirements:
 
 ### For ARM-based Devices:
@@ -26,7 +24,7 @@ This project allows you to enjoy YouTube on Google TV without any ads, providing
 - Require UFS storage
 
 ### For x86-based Devices:
-- Processor: Minimum Intel Core i3 8th Gen (Tested)
+- Processor: Minimum Intel Core i5 8th Gen (Tested)
 - RAM: 4GB
 
 ## Installation:
