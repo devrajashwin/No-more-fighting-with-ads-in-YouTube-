@@ -9,7 +9,7 @@ This project allows you to enjoy YouTube on Google TV without any ads, providing
 - Support VP9, AV1 codecs (require verified devices)
 - Block ads with uBlock Origin
 - Skip sponsor segments with SponsorBlock
-- Adjust video speed using **Up and Down buttons** (up to ∞) on the remote with Youtube Speed Control
+- Adjust video speed using **Up and Down buttons** (up to ∞) on the remote with Youtube Speed Control.
 
 ## Requirements:
 - Android 9+ (Google TV, FireOS, Android TV, Android tablets)
@@ -21,11 +21,11 @@ This project allows you to enjoy YouTube on Google TV without any ads, providing
 ### For ARM-based Devices:
 - Processor: Minimum 2x Cortex-A76 cores, 6x Cortex-A55 cores (Tested)
 - RAM: 8GB DDR4
-- Require UFS storage
+- Require UFS storage.
 
 ### For x86-based Devices:
 - Processor: Minimum Intel Core i5 8265U (Tested)
-- RAM: 4GB
+- RAM: 4GB.
 
 ## Installation:
 
