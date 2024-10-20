@@ -12,7 +12,7 @@ This project allows you to enjoy YouTube on Google TV without any ads, providing
 - Adjust video speed using **Up and Down buttons** on the remote
 
 ## Requirements:
-- Android 9+ (Google TV, FireOS, Android TV, Android Mobile)
+- Android 9+ (Google TV, FireOS, Android TV, Android tablets)
 
 - Require Bluetooth remote to use YouTube Origin.
 
