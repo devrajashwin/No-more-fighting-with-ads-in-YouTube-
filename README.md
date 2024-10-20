@@ -34,7 +34,7 @@ This project allows you to enjoy YouTube on Google TV without any ads, providing
 Download and install the **"Send Files to TV"** app on both your Android phone and Google TV.
 
 ### 2. Download YouTube Origin:
-**[YouTube Origin v1.3.1 (Mega)](https://mega.nz/file/4ppRxLIB#lN-op-qWrMvHzOY9rEiYOcwF2CyzAj7y7GuUSyGpZSE)** `619.7MB`
+**[YouTube Origin v1.3.1 (Mega)](https://mega.nz/file/4ppRxLIB#lN-op-qWrMvHzOY9rEiYOcwF2CyzAj7y7GuUSyGpZSE)** `619.7 MB`
 
 ### 3. Transfer the APK:
 Use the **"Send Files to TV"** app to send the APK file to your Google TV.
