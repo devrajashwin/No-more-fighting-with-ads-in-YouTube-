@@ -36,10 +36,10 @@ Download and install the **"Send Files to TV"** app on both your Android phone a
 **[YouTube Origin v1.3.1 (Mega)](https://mega.nz/file/4ppRxLIB#lN-op-qWrMvHzOY9rEiYOcwF2CyzAj7y7GuUSyGpZSE)** `619.7 MB`
 
 ### 3. Transfer the APK:
-Use the **"Send Files to TV"** app to send the APK file to your Google TV.
+Use **"Send Files to TV"** app to send APK file to your Google TV.
 
-### 4. Install the APK on Google TV:
-Once the APK file is transferred, simply click **Install** to begin the installation process.
+### 4. Install APK on Google TV:
+Once the APK file is transferred, click **Install** to begin the installation process.
 
 ### 5. Done:
 After installation, launch app to enjoy YouTube Origin.
