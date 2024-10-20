@@ -2,8 +2,6 @@
 
 This project allows you to enjoy YouTube on Google TV without any ads, providing a seamless and uninterrupted viewing experience.
 
-![IMAGE_DESCRIPTION](https://image.jimcdn.com/app/cms/image/transf/none/path/s293f5a94d3403280/image/i4074178470a6059a/version/1677224408/image.png)
-
 ## Features:
 - Watch YouTube without ads
 - Compatible with Google TV, Android TV
