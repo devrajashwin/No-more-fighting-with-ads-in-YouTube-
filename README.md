@@ -10,6 +10,7 @@ This project allows you to enjoy YouTube on Google TV without any ads, providing
 - Block ads with uBlock Origin
 - Skip sponsor segments with SponsorBlock
 - Adjust video speed using **Up and Down buttons** (up to ∞) on the remote with Youtube Speed Control.
+- Replaces thumbnails with Clickbait Remover for Youtube (experiment, not available now).
 
 ## Requirements:
 - Android 9+ (Google TV, FireOS, Android TV, Android tablets)
@@ -40,7 +41,7 @@ Download and install the **"Send Files to TV"** app on both your Android phone a
 Use **"Send Files to TV"** app to send APK file to your Google TV.
 
 ### 4. Install APK on Google TV:
-Once the APK file is transferred, click **Install** to begin the installation process.
+Once the APK file is transferred, click to install it.
 
 ### 5. Done:
 After installation, launch app to enjoy YouTube Origin.
