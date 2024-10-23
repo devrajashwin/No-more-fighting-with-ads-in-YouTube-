@@ -14,7 +14,6 @@ This project allows you to enjoy YouTube on Google TV without any ads, providing
 
 ## Requirements:
 - Android 9+ (Google TV, FireOS, Android TV, Android tablets)
-
 - Require Bluetooth remote to use YouTube Origin.
 
 ## Hardware Requirements:
