@@ -27,7 +27,7 @@ This project allows you to enjoy YouTube on Google TV without any ads, providing
 
 ### For x86-based Devices:
 - Processor: Intel Core i3 1005G1 (Tested)
-- RAM: 4GB.
+- RAM: 4GB
 
 ## Installation:
 
