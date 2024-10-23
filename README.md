@@ -4,7 +4,7 @@ This project allows you to enjoy YouTube on Google TV without any ads, providing
 
 ## Features:
 - Watch YouTube without ads
-- Compatible with Google TV, Android TV
+- Compatible with Google TV
 - Original UI
 - Support VP9, AV1 codecs (require verified devices)
 - Block ads with uBlock Origin
@@ -20,6 +20,7 @@ This project allows you to enjoy YouTube on Google TV without any ads, providing
 
 ### For ARM-based Devices:
 - Processor: Minimum 2x Cortex-A76 cores, 6x Cortex-A55 cores (Tested)
+- GPU: Mali-G52 or higher
 - RAM: 8GB DDR4
 - Require UFS storage.
 
