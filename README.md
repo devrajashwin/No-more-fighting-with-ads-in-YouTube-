@@ -20,9 +20,9 @@ This project allows you to enjoy YouTube on Google TV without any ads, providing
 
 ### For ARM-based Devices:
 - Processor: Minimum 2x Cortex-A76 cores, 6x Cortex-A55 cores (Tested)
-- GPU: Mali-G52 or higher
+- GPU: Mali-G52 and above
 - RAM: 8GB DDR4
-- Require UFS storage.
+- Require **UFS** storage.
 
 ### For x86-based Devices:
 - Processor: Minimum Intel Core i5 8265U (Tested)
@@ -30,13 +30,13 @@ This project allows you to enjoy YouTube on Google TV without any ads, providing
 
 ## Installation:
 
-### 1. Install the "Send Files to TV" App:
+### 1. Install "Send Files to TV" App:
 Download and install the **"Send Files to TV"** app on both your Android phone and Google TV.
 
 ### 2. Download YouTube Origin:
 **[YouTube Origin v1.3.1 (Mega)](https://mega.nz/file/4ppRxLIB#lN-op-qWrMvHzOY9rEiYOcwF2CyzAj7y7GuUSyGpZSE)** `619.7 MB`
 
-### 3. Transfer the APK:
+### 3. Transfer APK:
 Use **"Send Files to TV"** app to send APK file to your Google TV.
 
 ### 4. Install APK on Google TV:
