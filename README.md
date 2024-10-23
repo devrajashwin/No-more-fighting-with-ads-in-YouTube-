@@ -26,7 +26,7 @@ This project allows you to enjoy YouTube on Google TV without any ads, providing
 - Require **UFS** storage.
 
 ### For x86-based Devices:
-- Processor: Minimum Intel Core i5 8265U (Tested)
+- Processor: Intel Core i3 1005G1 (Tested)
 - RAM: 4GB.
 
 ## Installation:
