@@ -37,7 +37,7 @@ Download and install the **"Send Files to TV"** app on your Android phone and Go
 
 You should enable desktop site to bypass requirement to download the Mega app.
 
-**[YouTube Origin v1.3.2 (Mega)](https://mega.nz/file/hthWVSKZ#ib4hY6c05vABotUaY2P3HgR2TxPILUaNqhWBrRdHLgE)** `619.7 MB`
+**[YouTube Origin v1.3.2 (Mega)](https://mega.nz/file/hthWVSKZ#ib4hY6c05vABotUaY2P3HgR2TxPILUaNqhWBrRdHLgE)** `631.7 MB`
 
 ### 3. Transfer APK:
 Use **"Send Files to TV"** app to send APK file to your Google TV.
