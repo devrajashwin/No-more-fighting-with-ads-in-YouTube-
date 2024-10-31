@@ -2,7 +2,7 @@
 
 This project allows you to enjoy YouTube on Google TV without any ads, providing a seamless and uninterrupted viewing experience.
 
-## Features:
+## Features
 - Watch YouTube without ads
 - Compatible with Google TV
 - Original UI
@@ -12,11 +12,11 @@ This project allows you to enjoy YouTube on Google TV without any ads, providing
 - Adjust video speed using **Up/Down** buttons (up to ∞) on the remote with Youtube Speed Control
 - Replaces thumbnails with Clickbait Remover for Youtube (experiment, not available now).
 
-## Requirements:
+## Requirements
 - Android 9+ (Google TV, FireOS, Android TV, Android tablets, Android phones)
 - Require Bluetooth remote to use YouTube Origin.
 
-## Hardware Requirements:
+## Hardware Requirements
 
 ### For ARM-based Devices:
 - Processor: Minimum 2x Cortex-A76 cores, 6x Cortex-A55 cores (Tested)
@@ -28,7 +28,7 @@ This project allows you to enjoy YouTube on Google TV without any ads, providing
 - Processor: Intel Core i3 1005G1 (Tested)
 - RAM: 4GB
 
-## Installation:
+## Installation
 
 ### 1. Install "Send Files to TV" App:
 Download and install the **"Send Files to TV"** app on your Android phone and Google TV.
@@ -49,7 +49,7 @@ Once the APK file is transferred, click to install it.
 After installation, launch app to enjoy YouTube Origin.
 
 
-## Changes:
+## Changes
 
 **V1.3.2**
 
