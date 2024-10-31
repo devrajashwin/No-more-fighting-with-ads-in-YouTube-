@@ -49,7 +49,7 @@ Once the APK file is transferred, click to install it.
 After installation, launch app to enjoy YouTube Origin.
 
 
-##Changes in v1.3.2:
+## Changes in v1.3.2:
 
 - Updated to v5.12.300 (YouTube for Android TV)
 
