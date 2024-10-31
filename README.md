@@ -6,23 +6,23 @@ This project allows you to enjoy YouTube on Google TV without any ads, providing
 - Watch YouTube without ads
 - Compatible with Google TV
 - Original UI
-- Support VP9, AV1 codecs (require verified devices)
+- Support VP9, AV1 codecs **(requires hardware decoding support)**
 - Block ads with uBlock Origin
 - Skip sponsor segments with SponsorBlock
-- Adjust video speed using **Up and Down buttons** (up to ∞) on the remote with Youtube Speed Control.
+- Adjust video speed using **Up/Down** buttons (up to ∞) on the remote with Youtube Speed Control
 - Replaces thumbnails with Clickbait Remover for Youtube (experiment, not available now).
 
 ## Requirements:
-- Android 9+ (Google TV, FireOS, Android TV, Android tablets)
+- Android 9+ (Google TV, FireOS, Android TV, Android tablets, Android phones)
 - Require Bluetooth remote to use YouTube Origin.
 
 ## Hardware Requirements:
 
 ### For ARM-based Devices:
 - Processor: Minimum 2x Cortex-A76 cores, 6x Cortex-A55 cores (Tested)
-- GPU: Mali-G52 and above
+- GPU: Mali-G76 MP4 and above
 - RAM: 8GB DDR4
-- Require **UFS** storage.
+- Require **UFS 2.1** and above.
 
 ### For x86-based Devices:
 - Processor: Intel Core i3 1005G1 (Tested)
@@ -31,13 +31,13 @@ This project allows you to enjoy YouTube on Google TV without any ads, providing
 ## Installation:
 
 ### 1. Install "Send Files to TV" App:
-Download and install the **"Send Files to TV"** app on both your Android phone and Google TV.
+Download and install the **"Send Files to TV"** app on your Android phone and Google TV.
 
 ### 2. Download YouTube Origin:
 
 You should enable desktop site to bypass requirement to download the Mega app.
 
-**[YouTube Origin v1.3.1 (Mega)](https://mega.nz/file/4ppRxLIB#lN-op-qWrMvHzOY9rEiYOcwF2CyzAj7y7GuUSyGpZSE)** `619.7 MB`
+**[YouTube Origin v1.3.2 (Mega)](https://mega.nz/file/hthWVSKZ#ib4hY6c05vABotUaY2P3HgR2TxPILUaNqhWBrRdHLgE)** `619.7 MB`
 
 ### 3. Transfer APK:
 Use **"Send Files to TV"** app to send APK file to your Google TV.
@@ -47,7 +47,6 @@ Once the APK file is transferred, click to install it.
 
 ### 5. Done:
 After installation, launch app to enjoy YouTube Origin.
-
 
 ---
 
