@@ -57,7 +57,7 @@ After installation, launch app to enjoy YouTube Origin.
 - Updated to v5.9.5 (SponsorBlock)
 - Fixed some bugs
 - Updated layout engine
-- Hardware requirments changed due to the new UI.
+- Hardware requirements changed due to the new UI.
 
 ---
 
