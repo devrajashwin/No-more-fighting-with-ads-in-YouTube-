@@ -6,7 +6,7 @@ This project allows you to enjoy YouTube on Google TV without any ads, providing
 - Watch YouTube without ads
 - Compatible with Google TV
 - Original UI
-- Support VP9, AV1 codecs **(requires hardware decoding support)**
+- Support VP9, AV1 codecs **(require hardware decoding support)**
 - Block ads with uBlock Origin
 - Skip sponsor segments with SponsorBlock
 - Adjust video speed using **Up/Down** buttons (up to ∞) on the remote with Youtube Speed Control
@@ -54,13 +54,9 @@ After installation, launch app to enjoy YouTube Origin.
 **V1.3.2**
 
 - Updated to v5.12.300 (YouTube for Android TV)
-
 - Updated to v5.9.5 (SponsorBlock)
-
 - Fixed some bugs
-
 - Updated layout engine
-
 - Hardware requirments changed in v1.3.2 (due to new UI).
 
 
