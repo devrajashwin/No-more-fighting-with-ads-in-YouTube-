@@ -64,7 +64,7 @@ After installation, launch app to enjoy YouTube Origin.
 
 ## Changes
 
-**V1.3.2**
+**Version 1.3.2**
 
 - Updated to v5.12.300 (YouTube for Android TV)
 - Updated to v5.9.5 (SponsorBlock)
