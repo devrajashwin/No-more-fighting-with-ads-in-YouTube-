@@ -38,7 +38,7 @@ Download and install the "ZArchiver" app on your Android phone.
 
 ### 2. Download YouTube Origin for Google TV:
 
-**V1.3.2**
+**Version 1.3.2**
 
 - **[armeabi-v7a](https://gitlab.com/energylove/originproject/-/blob/main/Releases/v1.3.2/youtube_origin_googletv_armeabi-v7a_release2.zip?ref_type=heads)** `82.46 MB`
 
