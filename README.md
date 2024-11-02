@@ -36,7 +36,7 @@ Download and install the "Send Files to TV" app on your Android phone and Google
 ### 2. Install "ZArchiver" App:
 Download and install the "ZArchiver" app on your Android phone.
 
-### 3. Download YouTube Origin for Google TV:
+### 3. Download YouTube Origin
 
 **Version 1.3.2**
 
