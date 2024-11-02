@@ -31,10 +31,10 @@ This project allows you to enjoy YouTube on Google TV without any ads, providing
 ## Installation
 
 ### 1. Install "Send Files to TV" App:
-Download and install the "Send Files to TV" app on your Android phone and Google TV.
+Download and install the **"Send Files to TV"** app on your Android phone and Google TV.
 
 ### 2. Install "ZArchiver" App:
-Download and install the "ZArchiver" app on your Android phone.
+Download and install the **"ZArchiver"** app on your Android phone.
 
 ### 3. Download YouTube Origin
 
@@ -64,7 +64,7 @@ After installation, launch app to enjoy YouTube Origin.
 
 ## Changes
 
-**Version 1.3.2**
+**V1.3.2**
 
 - Updated to v5.12.300 (YouTube for Android TV)
 - Updated to v5.9.5 (SponsorBlock)
