@@ -36,7 +36,7 @@ Download and install the "Send Files to TV" app on your Android phone and Google
 ### 2. Install "ZArchiver" App:
 Download and install the "ZArchiver" app on your Android phone.
 
-### 2. Download YouTube Origin for Google TV:
+### 3. Download YouTube Origin for Google TV:
 
 **Version 1.3.2**
 
@@ -49,16 +49,16 @@ Download and install the "ZArchiver" app on your Android phone.
 - **[x86_64](https://gitlab.com/energylove/originproject/-/blob/main/Releases/v1.3.2/youtube_origin_googletv_x86-64bit__release2.zip?ref_type=heads)** `89.43 MB`
 
 
-### 3. Extract the ZIP file
+### 4. Extract the ZIP file
 Extract the downloaded ZIP file, you will find an APK file inside.
 
-### 4. Transfer APK:
+### 5. Transfer APK:
 Use **"Send Files to TV"** app to send that APK file to your Google TV.
 
-### 5. Install APK on Google TV:
+### 6. Install APK on Google TV:
 Once the APK file is transferred, click to install it.
 
-### 6. Done:
+### 7. Done:
 After installation, launch app to enjoy YouTube Origin.
 
 
