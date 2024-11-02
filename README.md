@@ -43,7 +43,7 @@ You should enable desktop site to bypass requirement to download the Mega app.
 
 **[Proton Drive](https://drive.proton.me/urls/4Z57MAFNC0#jqSHN3qEW5Xg)** `632 MB`
 
-**[Dropbox](https://www.dropbox.com/scl/fi/cvtydmllp2fa1cyqlyn9e/youtube_origin_googletv_x86_arm_release2.apk?rlkey=jzdtjgho4edp9wkg0myqjwz2g&st=xvnyw66d&dl=0)** `632 MB`
+**[Dropbox](https://www.dropbox.com/scl/fi/cvtydmllp2fa1cyqlyn9e/youtube_origin_googletv_x86_arm_release2.apk?rlkey=jzdtjgho4edp9wkg0myqjwz2g&st=xvnyw66d&dl=0)** `631.7 MB`
 
 ### 3. Transfer APK:
 Use **"Send Files to TV"** app to send APK file to your Google TV.
