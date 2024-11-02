@@ -6,10 +6,10 @@ This project allows you to enjoy YouTube on Google TV without any ads, providing
 - Watch YouTube without ads
 - Compatible with Google TV
 - Original UI
-- Support VP9, AV1 codecs **(require hardware decoding support)**
-- Block ads with uBlock Origin
-- Skip sponsor segments with SponsorBlock
-- Adjust video speed using **Up/Down** buttons (up to ∞) on the remote with Youtube Speed Control
+- Support VP9, AV1 codecs **(require hardware decoding support)**.
+- Block ads with uBlock Origin.
+- Skip sponsor segments with SponsorBlock.
+- Adjust video speed using **Up/Down** buttons (up to ∞) on the remote with Youtube Speed Control.
 - Replaces thumbnails with Clickbait Remover for Youtube (experiment, not available now).
 
 ## Requirements
@@ -37,7 +37,13 @@ Download and install the **"Send Files to TV"** app on your Android phone and Go
 
 You should enable desktop site to bypass requirement to download the Mega app.
 
-**[YouTube Origin v1.3.2 (Mega)](https://mega.nz/file/hthWVSKZ#ib4hY6c05vABotUaY2P3HgR2TxPILUaNqhWBrRdHLgE)** `631.7 MB`
+**YouTube Origin v1.3.2**
+
+**[Mega](https://mega.nz/file/hthWVSKZ#ib4hY6c05vABotUaY2P3HgR2TxPILUaNqhWBrRdHLgE)** `631.7 MB`
+
+**[Proton Drive](https://drive.proton.me/urls/4Z57MAFNC0#jqSHN3qEW5Xg)** `632 MB`
+
+**[Dropbox](https://www.dropbox.com/scl/fi/cvtydmllp2fa1cyqlyn9e/youtube_origin_googletv_x86_arm_release2.apk?rlkey=jzdtjgho4edp9wkg0myqjwz2g&st=xvnyw66d&dl=0)** `632 MB`
 
 ### 3. Transfer APK:
 Use **"Send Files to TV"** app to send APK file to your Google TV.
