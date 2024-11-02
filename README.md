@@ -13,7 +13,7 @@ This project allows you to enjoy YouTube on Google TV without any ads, providing
 - Replaces thumbnails with Clickbait Remover for Youtube (experiment, not available now).
 
 ## Requirements
-- Android 9+ (Google TV, FireOS, Android TV, Android tablets, Android phones)
+- **Android 9+** (Google TV, FireOS, Android TV, Android tablets, Android phones)
 - Require Bluetooth remote to use YouTube Origin.
 
 ## Hardware Requirements
@@ -31,28 +31,34 @@ This project allows you to enjoy YouTube on Google TV without any ads, providing
 ## Installation
 
 ### 1. Install "Send Files to TV" App:
-Download and install the **"Send Files to TV"** app on your Android phone and Google TV.
+Download and install the "Send Files to TV" app on your Android phone and Google TV.
 
-### 2. Download YouTube Origin:
+### 2. Install "ZArchiver" App:
+Download and install the "ZArchiver" app on your Android phone.
 
-You should enable desktop site to bypass requirement to download the Mega app.
+### 2. Download YouTube Origin for Google TV:
 
-**YouTube Origin v1.3.2**
+**V1.3.2**
 
-- **[Mega](https://mega.nz/file/hthWVSKZ#ib4hY6c05vABotUaY2P3HgR2TxPILUaNqhWBrRdHLgE)** `631.7 MB`
+- **[armeabi-v7a](https://gitlab.com/energylove/originproject/-/blob/main/Releases/v1.3.2/youtube_origin_googletv_armeabi-v7a_release2.zip?ref_type=heads)** `82.46 MB`
 
-- **[Dropbox](https://www.dropbox.com/scl/fi/cvtydmllp2fa1cyqlyn9e/youtube_origin_googletv_x86_arm_release2.apk?rlkey=jzdtjgho4edp9wkg0myqjwz2g&st=xvnyw66d&dl=0)** `631.7 MB`
+- **[arm64-v8a](https://gitlab.com/energylove/originproject/-/blob/main/Releases/v1.3.2/youtube_origin_googletv_arm64-v8a_release2.zip?ref_type=heads)** `85.67 MB`
 
-- **[Proton](https://drive.proton.me/urls/4Z57MAFNC0#jqSHN3qEW5Xg)** `632 MB`
+- **[x86](https://gitlab.com/energylove/originproject/-/blob/main/Releases/v1.3.2/youtube_origin_googletv_x86-32bit_release2.zip?ref_type=heads)** `93.72 MB`
+
+- **[x86_64](https://gitlab.com/energylove/originproject/-/blob/main/Releases/v1.3.2/youtube_origin_googletv_x86-64bit__release2.zip?ref_type=heads)** `89.43 MB`
 
 
-### 3. Transfer APK:
-Use **"Send Files to TV"** app to send APK file to your Google TV.
+### 3. Extract the ZIP file
+Extract the downloaded ZIP file, and you will find an APK file inside.
 
-### 4. Install APK on Google TV:
+### 4. Transfer APK:
+Use **"Send Files to TV"** app to send that APK file to your Google TV.
+
+### 5. Install APK on Google TV:
 Once the APK file is transferred, click to install it.
 
-### 5. Done:
+### 6. Done:
 After installation, launch app to enjoy YouTube Origin.
 
 
