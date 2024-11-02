@@ -50,7 +50,7 @@ Download and install the "ZArchiver" app on your Android phone.
 
 
 ### 3. Extract the ZIP file
-Extract the downloaded ZIP file, and you will find an APK file inside.
+Extract the downloaded ZIP file, you will find an APK file inside.
 
 ### 4. Transfer APK:
 Use **"Send Files to TV"** app to send that APK file to your Google TV.
