@@ -6,7 +6,7 @@ This project allows you to enjoy YouTube on Google TV without any ads, providing
 - Watch YouTube without ads
 - Compatible with Google TV
 - Original UI
-- Support VP9, AV1 codecs **(require hardware decoding support)**.
+- Support VP9, AV1 codecs **(require hardware decoding support)**
 - Block ads with uBlock Origin.
 - Skip sponsor segments with SponsorBlock.
 - Adjust video speed using **Up/Down** buttons (up to ∞) on the remote with Youtube Speed Control.
@@ -20,7 +20,7 @@ This project allows you to enjoy YouTube on Google TV without any ads, providing
 
 ### For ARM-based Devices:
 - Processor: Minimum 2x Cortex-A76 cores, 6x Cortex-A55 cores (Tested)
-- GPU: Mali-G76 MP4 and above
+- GPU: Mali-G76 MP4 and above.
 - RAM: 8GB DDR4
 - Require **UFS 2.1** and above.
 
@@ -30,10 +30,10 @@ This project allows you to enjoy YouTube on Google TV without any ads, providing
 
 ## Installation
 
-### 1. Install "Send Files to TV" App:
+### 1. Install "Send Files to TV" App
 Download and install the **"Send Files to TV"** app on your Android phone and Google TV.
 
-### 2. Install "ZArchiver" App:
+### 2. Install "ZArchiver" App
 Download and install the **"ZArchiver"** app on your Android phone.
 
 ### 3. Download YouTube Origin
@@ -52,13 +52,13 @@ Download and install the **"ZArchiver"** app on your Android phone.
 ### 4. Extract the ZIP file
 Extract the downloaded ZIP file, you will find an APK file inside.
 
-### 5. Transfer APK:
+### 5. Transfer APK
 Use **"Send Files to TV"** app to send that APK file to your Google TV.
 
-### 6. Install APK on Google TV:
+### 6. Install APK on Google TV
 Once the APK file is transferred, click to install it.
 
-### 7. Done:
+### 7. Done
 After installation, launch app to enjoy YouTube Origin.
 
 
