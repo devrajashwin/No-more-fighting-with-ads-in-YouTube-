@@ -72,7 +72,7 @@ After installation, launch app to enjoy YouTube Origin.
 - Updated layout engine
 - Hardware requirements changed due to the new UI.
 
-Support and discuss more at **[XDA Forums](https://xdaforums.com/t/app-android-tv-youtube-origin-for-google-tv.4699190/)**.
+Support and discuss more at **[XDA Forums](https://xdaforums.com/t/app-android-tv-youtube-origin-for-google-tv.4699190/)**
 
 ---
 
