@@ -6,7 +6,7 @@ This project allows you to enjoy YouTube on Google TV without any ads, providing
 - Watch YouTube without ads
 - Compatible with Google TV
 - Original UI
-- Support VP9, AV1 codecs **(require hardware decoding support)**
+- Support VP9, AV1 codecs.
 - Block ads with uBlock Origin.
 - Skip sponsor segments with SponsorBlock.
 - Adjust video speed using **Up/Down** buttons (up to ∞) on the remote with Youtube Speed Control.
@@ -20,13 +20,19 @@ This project allows you to enjoy YouTube on Google TV without any ads, providing
 
 ### For ARM-based Devices
 - Processor: Minimum 2x Cortex-A76 cores, 6x Cortex-A55 cores (Tested)
-- GPU: Mali-G76 MP4 and above.
-- RAM: 8GB DDR4
-- Require **UFS 2.1** and above.
+- GPU: Mali-G76 MP4
+- Require **UFS 2.1** storage.
 
 ### For x86-based Devices
 - Processor: Intel Core i3 1005G1 (Tested)
 - RAM: 4GB
+
+## Codecs
+- Support AVC1 codec (support hardware decoding & sofware decoding)
+- Support VP9 codec (only support hardware decoding, sofware decoding is not supported)
+- Support AV1 codec (support hardware decoding & sofware decoding)
+
+**Notes**: In YouTube Origin, hardware decoding is always prioritized over software decoding, and AV1 is always preferred over VP9 (Google’s original YouTube app always prioritizes VP9 over AV1). However, this project is currently facing an issue with accurately detecting processors that support VP9 & AVC1 hardware decoding on streaming devices. I’ll work on fixing this issue in next few months.
 
 ## Installation
 
