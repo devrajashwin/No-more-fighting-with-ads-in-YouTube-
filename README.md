@@ -36,7 +36,7 @@ This project allows you to enjoy YouTube on Google TV without any ads, providing
 
 **Notes**:
 - In YouTube Origin, HW decoding takes priority over SW decoding, and AV1 is preferred over VP9 (the original YouTube app prioritizes VP9 over AV1).
-- However, this project is currently facing an issue with accurately detecting processors that support hardware decoding for both AVC1 & VP9 on some devices using MediaTek, Amlogic, Allwinner & Rockchip. I’ll work on fixing this issue in next few months.
+- However, this project is currently facing an issue with accurately detecting processors that support hardware decoding for both AVC1 & VP9 on some devices (MediaTek, Amlogic, Allwinner, Rockchip, Realtek & Broadcom). I’ll work on fixing this issue in next months.
 - To test AV1 videos, try TheFatRat's music videos, they all support the AV1 codec
 
 ## Installation
