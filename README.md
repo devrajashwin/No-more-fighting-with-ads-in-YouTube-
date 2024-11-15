@@ -22,7 +22,7 @@ This project allows you to enjoy YouTube on Google TV without any ads, providing
 - Processor: Minimum 2x Cortex-A76 cores, 6x Cortex-A55 cores (Tested)
 - GPU: Mali-G76 MP4
 - RAM: 8GB DDR4
-- Require **UFS 2.1** storage.
+- Storage: UFS 2.1
 
 ### For x86-based Devices
 - Processor: Intel Core i3 1005G1 (Tested)
@@ -35,9 +35,9 @@ This project allows you to enjoy YouTube on Google TV without any ads, providing
 - AV1 codec (HW and SW decoding supported)
 
 **Notes**:
-- In YouTube Origin, HW decoding takes priority over SW decoding, and AV1 is preferred over VP9 (the original YouTube app prioritizes VP9 over AV1).
-- However, this project is currently facing an issue with accurately detecting processors that support hardware decoding for both AVC1 & VP9 on some devices (MediaTek, Amlogic, Allwinner, Rockchip, Realtek & Broadcom). I’ll work on fixing this issue in next months.
-- To test AV1 videos, try TheFatRat's music videos, they all support the AV1 codec
+- AV1 [SW] is preferred over VP9 [HW] in this project (original app prioritizes HW over SW).
+- This project is currently facing an issue with accurately detecting processors that support hardware decoding for both AVC1 & VP9 on some devices (MediaTek, Amlogic, Allwinner, Rockchip, Realtek & Broadcom). I’ll work on fixing this issue in next months.
+- To test AV1 videos, try TheFatRat's music videos, they all support the AV1 codec.
 
 ## Installation
 
