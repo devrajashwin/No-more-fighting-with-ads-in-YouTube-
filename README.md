@@ -51,13 +51,13 @@ Download and install the **"ZArchiver"** app on your Android phone.
 
 **Version 1.3.2**
 
-- **[armeabi-v7a](https://gitlab.com/energylove/originproject/-/blob/main/Releases/v1.3.2/youtube_origin_googletv_armeabi-v7a_release2.zip?ref_type=heads)** `82.46 MB`
+- **[armeabi-v7a](https://gitlab.com/energylove/originproject/-/blob/main/Releases/v1.3.3/youtube_origin_googletv_armeabi-v7a_release5.zip)** `83.36 MB`
 
-- **[arm64-v8a](https://gitlab.com/energylove/originproject/-/blob/main/Releases/v1.3.2/youtube_origin_googletv_arm64-v8a_release2.zip?ref_type=heads)** `85.67 MB`
+- **[arm64-v8a](https://gitlab.com/energylove/originproject/-/blob/main/Releases/v1.3.3/youtube_origin_googletv_arm64-v8a_release5.zip)** `86.51 MB`
 
-- **[x86](https://gitlab.com/energylove/originproject/-/blob/main/Releases/v1.3.2/youtube_origin_googletv_x86-32bit_release2.zip?ref_type=heads)** `93.72 MB`
+- **[x86](https://gitlab.com/energylove/originproject/-/blob/main/Releases/v1.3.3/youtube_origin_googletv_x86_release5.zip)** `95.09 MB`
 
-- **[x86_64](https://gitlab.com/energylove/originproject/-/blob/main/Releases/v1.3.2/youtube_origin_googletv_x86-64bit__release2.zip?ref_type=heads)** `89.43 MB`
+- **[x86_64](https://gitlab.com/energylove/originproject/-/blob/main/Releases/v1.3.3/youtube_origin_googletv_x86_64_release5.zip)** `90.74 MB`
 
 
 ### 4. Extract the ZIP file
@@ -75,13 +75,24 @@ After installation, launch app to enjoy YouTube Origin.
 
 ## Changes
 
-**V1.3.2**
+**V1.3.3**
 
-- Updated to v5.12.300 (YouTube for Android TV)
-- Updated to v5.9.5 (SponsorBlock)
-- Fixed some bugs
-- Updated layout engine
-- Hardware requirements changed due to the new UI
+• Updated to v5.13.300 (YouTube for Android TV)
+• Updated to v1.61.0 (uBlock Origin)
+• Updated to v5.9.6 (SponsorBlock)
+• Fixed white screen issue when open app
+• Fixed navigation bar flickering issue
+• Fixed the multi-touch issue on touch screen
+• Fixed screen rotation issue on Android tablets/phones (Samsung Tab S10 tested)
+• Fixed screensaver issue on Google TV
+• Fix crash issue on some devices
+• Enabled playback at the highest resolution quality (1080P/2K)
+• Updated banner logo for Projectivy Launcher, Android TV launcher
+• Optimization for Google TV Streamer, Fire TV Stick (MediaTek)
+• Updated layout engine
+• Updated post #1 on XDA & GitLab: List of devices supported HW.
+• Starting from Android 10+, YouTube Origin supported HW decoding for video playback on all hardware. Android 9 users, please read post #1 again.
+
 
 Support and discuss more at **[XDA Forums](https://xdaforums.com/t/app-android-tv-youtube-origin-for-google-tv.4699190/)**.
 
