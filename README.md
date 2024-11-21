@@ -87,7 +87,7 @@ After installation, launch app to enjoy YouTube Origin.
 - Fixed white screen issue when open app
 - Fixed navigation bar flickering issue
 - Fixed the multi-touch issue on touch screen
-- Fixed screen rotation issue on Android tablets/phones (Samsung Tab S10 tested)
+- Fixed screen rotation issue on Android tablets/mobiles (Samsung Tab S10 tested)
 - Fixed screensaver issue on Google TV
 - Fixed crash issue on some devices
 - Enabled playback at the highest resolution quality (1080P/2K)
