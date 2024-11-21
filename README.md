@@ -90,7 +90,7 @@ After installation, launch app to enjoy YouTube Origin.
 - Updated banner logo for Projectivy Launcher, Android TV launcher
 - Optimization for Google TV Streamer, Fire TV Stick (MediaTek)
 - Updated layout engine
-- Updated **[Codecs](https://gitlab.com/energylove/originproject/-/blob/main/README.md#codecs)** on XDA & GitLab: Added "List of devices supported HW".
+- Updated [Codecs](https://gitlab.com/energylove/originproject/-/blob/main/README.md#codecs) on XDA & GitLab: Added "List of devices supported HW".
 - Starting from Android 10+, YouTube Origin supported HW decoding for video playback on all hardware. For Android 9 users, please read **[Codecs](https://gitlab.com/energylove/originproject/-/blob/main/README.md#codecs)** again.
 
 
