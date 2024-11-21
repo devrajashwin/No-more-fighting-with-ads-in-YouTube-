@@ -38,7 +38,7 @@ This project allows you to enjoy YouTube on Google TV without any ads, providing
 #### For Android 9 Devices:
 - **H264/AVC1:** HW decoding is only supported on **Qualcomm, MediaTek, Samsung Exynos**, and **Nvidia Tegra** devices (note that **Nvidia Shield** has been updated to Android 11, so this restriction can be ignored for it).
 - **VP9:** HW decoding is only supported on **Qualcomm** and **Samsung Exynos** devices.
-- **AV1:** Currently, limited software support is provided via the **dav1d decoder**, but it is highly unlikely that Android 9 devices will have **dav1d** available, meaning 90% of Android 9 devices will not support AV1.
+- **AV1:** Only supports SW decoding via dav1d decoder but it is highly unlikely that Android 9 devices will have **dav1d** available, meaning 90% of Android 9 devices will not support AV1.
 
 Devices running Android 9 with chipsets from **Amlogic, Allwinner, Rockchip**, and other Chinese manufacturers will not be able to use HW decoding at all. Please upgrade device if you experience dropped frames while using YouTube Origin.
 
