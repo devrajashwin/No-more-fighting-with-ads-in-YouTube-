@@ -91,7 +91,7 @@ After installation, launch app to enjoy YouTube Origin.
 - Optimization for Google TV Streamer, Fire TV Stick (MediaTek)
 - Updated layout engine
 - Updated post #1 on XDA & GitLab: List of devices supported HW.
-- Starting from Android 10+, YouTube Origin supported HW decoding for video playback on all hardware. Android 9 users, please read post #1 again.
+- Starting from Android 10+, YouTube Origin supported HW decoding for video playback on all hardware. For Android 9 users, please read post #1 again.
 
 
 Support and discuss more at **[XDA Forums](https://xdaforums.com/t/app-android-tv-youtube-origin-for-google-tv.4699190/)**.
