@@ -77,21 +77,21 @@ After installation, launch app to enjoy YouTube Origin.
 
 **V1.3.3**
 
-• Updated to v5.13.300 (YouTube for Android TV)
-• Updated to v1.61.0 (uBlock Origin)
-• Updated to v5.9.6 (SponsorBlock)
-• Fixed white screen issue when open app
-• Fixed navigation bar flickering issue
-• Fixed the multi-touch issue on touch screen
-• Fixed screen rotation issue on Android tablets/phones (Samsung Tab S10 tested)
-• Fixed screensaver issue on Google TV
-• Fix crash issue on some devices
-• Enabled playback at the highest resolution quality (1080P/2K)
-• Updated banner logo for Projectivy Launcher, Android TV launcher
-• Optimization for Google TV Streamer, Fire TV Stick (MediaTek)
-• Updated layout engine
-• Updated post #1 on XDA & GitLab: List of devices supported HW.
-• Starting from Android 10+, YouTube Origin supported HW decoding for video playback on all hardware. Android 9 users, please read post #1 again.
+- Updated to v5.13.300 (YouTube for Android TV)
+- Updated to v1.61.0 (uBlock Origin)
+- Updated to v5.9.6 (SponsorBlock)
+- Fixed white screen issue when open app
+- Fixed navigation bar flickering issue
+- Fixed the multi-touch issue on touch screen
+- Fixed screen rotation issue on Android tablets/phones (Samsung Tab S10 tested)
+- Fixed screensaver issue on Google TV
+- Fix crash issue on some devices
+- Enabled playback at the highest resolution quality (1080P/2K)
+- Updated banner logo for Projectivy Launcher, Android TV launcher
+- Optimization for Google TV Streamer, Fire TV Stick (MediaTek)
+- Updated layout engine
+- Updated post #1 on XDA & GitLab: List of devices supported HW.
+- Starting from Android 10+, YouTube Origin supported HW decoding for video playback on all hardware. Android 9 users, please read post #1 again.
 
 
 Support and discuss more at **[XDA Forums](https://xdaforums.com/t/app-android-tv-youtube-origin-for-google-tv.4699190/)**.
