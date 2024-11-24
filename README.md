@@ -19,7 +19,7 @@ This project allows you to enjoy YouTube on Google TV without any ads, providing
 ## Hardware Requirements
 
 #### For ARM-based Devices:
-- Processor: Minimum 2x Cortex-A76 cores, 6x Cortex-A55 cores (Tested)
+- CPU: Minimum 2x Cortex-A76 cores, 6x Cortex-A55 cores (Tested)
 - GPU: Mali-G76 MP4
 - RAM: 8GB LPDDR4
 - Storage: UFS 2.1
