@@ -50,17 +50,13 @@ To test AV1 videos, try TheFatRat's music videos, they all support the AV1 codec
 #### Priority order for codecs:
 
 - HW decoding: AV1 > VP9 > AVC1
-
 - SW decoding: AV1 (dav1d) > AVC1 (not supported VP9 SW)
 
-Video quality
+####Video quality
 
 - YouTube Origin supports video playback up to 1080P/2K (always prioritizing AV1 when available).
-
 - Starting from March 2024, YouTube will gradually replace VP9 with the new default codec AV1, so there are many videos being upgraded to AV1 causing certain resolutions to be unavailable in specific codecs.
-
 For example, if you watching a video with 1080P set as the default quality, but for the next video, you find "Quality for current video" showing 720P, this is normal. This happens because 720P might be the highest available resolution for AV1 (while 1080P is only available in VP9, which YouTube Origin won’t select). In such cases, 720P AV1 will always be chosen over 1080P VP9. Similarly, between 1080P AVC1 and 720P VP9, 720P VP9 will be selected for playback.
-
 
 ## Installation
 
