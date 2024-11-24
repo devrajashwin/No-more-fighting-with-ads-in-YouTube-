@@ -5,8 +5,8 @@ This project allows you to enjoy YouTube on Google TV without any ads, providing
 ## Features
 - Watch YouTube without ads
 - Original UI
-- Compatible with Google TV
-- Support hardware decoders.
+- Compatible with Google TV.
+- Support Hardware decoder.
 - Block ads with uBlock Origin.
 - Skip sponsor segments with SponsorBlock
 - Adjust video speed using **Up/Down** buttons (up to ∞) on the remote with Youtube Speed Control.
@@ -32,18 +32,36 @@ This project allows you to enjoy YouTube on Google TV without any ads, providing
 
 #### For Android 10+ Devices:
 - By default, **YouTube Origin** supports **HW decoding** for video playback on all devices (except **no-name** Chinese devices with fake technical specs when checked with tools like AIDA64, CPU-Z, Antutu, Device Info HW, etc.).
-- For **certified Android devices** without AV1 HW decoder, the app will default to using the **dav1d decoder** (**dav1d** is a default software decoder on Android, available through the **March 2024 Google Play System Update**).
-- If the device does not have the **dav1d decoder**, the **HW VP9 decoder** will always take priority.
+- For **certified** Android devices without AV1 HW decoder, the app will default to using the **dav1d** decoder (dav1d is a default software decoder on Android, available through the **March 2024 Google Play System** update).
+- If the device does not have the dav1d decoder, the HW VP9 decoder will always take priority.
 
 #### For Android 9 Devices:
-- **H264/AVC1:** HW decoding is only supported on **Qualcomm, MediaTek, Samsung Exynos**, and **Nvidia Tegra** devices (note that **Nvidia Shield** has been updated to Android 11, so this can be ignored for it).
-- **VP9:** HW decoding is only supported on **Qualcomm** and **Samsung Exynos** devices.
+- **H264/AVC1:** HW decoding is only supported for **Qualcomm, MediaTek, Samsung Exynos**, and **Nvidia Tegra** devices (note that **Nvidia Shield** has been updated to Android 11, so this can be ignored).
+- **VP9:** HW decoding is only supported for **Qualcomm** and **Exynos** devices.
 - **AV1:** Only supports SW decoding via dav1d decoder but it is highly unlikely that Android 9 devices will have **dav1d** available, meaning 90% of Android 9 devices will not support AV1.
 
-Devices running Android 9 with chipsets from **Amlogic, Allwinner, Rockchip**, and other Chinese manufacturers will not be able to use HW decoding at all. Please upgrade device if you experience dropped frames while using YouTube Origin.
+Devices running Android 9 with chipsets from **Amlogic, Allwinner, Rockchip** will not be able to use HW decoding at all. Please upgrade device to Android 10+ if you experience dropped frames while using YouTube Origin.
 
 
 To test AV1 videos, try TheFatRat's music videos, they all support the AV1 codec. You can check for frame drops and the codec being used in the video through Stats for Nerds.
+
+## Playback
+
+#### Priority order for codecs:
+
+- HW decoding: AV1 > VP9 > AVC1
+
+- SW decoding: AV1 (dav1d) > AVC1 (not supported VP9 SW)
+
+Video quality
+
+- YouTube Origin supports video playback up to 1080P/2K (always prioritizing AV1 when available).
+
+- Starting from March 2024, YouTube will gradually replace VP9 with the new default codec AV1, so there are many videos being upgraded to AV1 causing certain resolutions to be unavailable in specific codecs.
+
+For example, if you watching a video with 1080P set as the default quality, but for the next video, you find "Quality for current video" showing 720P, this is normal. This happens because 720P might be the highest available resolution for AV1 (while 1080P is only available in VP9, which YouTube Origin won’t select). In such cases, 720P AV1 will always be chosen over 1080P VP9. Similarly, between 1080P AVC1 and 720P VP9, 720P VP9 will be selected for playback.
+
+
 ## Installation
 
 ### 1. Install "Send Files to TV" App
