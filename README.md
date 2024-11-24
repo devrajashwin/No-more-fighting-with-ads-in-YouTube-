@@ -1,11 +1,11 @@
-# YouTube Origin for Google TV
+## YouTube Origin for Google TV
 
 This project allows you to enjoy YouTube on Google TV without any ads, providing a seamless and uninterrupted viewing experience.
 
 ## Features
 - Watch YouTube without ads
-- Compatible with Ambient Mode on Google TV
 - Original UI
+- Compatible with Google TV
 - Support hardware decoders.
 - Block ads with uBlock Origin.
 - Skip sponsor segments with SponsorBlock
@@ -95,7 +95,7 @@ After installation, launch app to enjoy YouTube Origin.
 - Updated banner logo for Projectivy Launcher, Android TV launcher
 - Optimization for Google TV Streamer, Fire TV Stick (MediaTek)
 - Updated layout engine
-- Updated [Codecs](https://gitlab.com/energylove/originproject/-/blob/main/README.md#codecs) on XDA & GitLab. For Android 9 & 10+ devices, please read **Codecs** again.
+- Updated **[Codecs](https://gitlab.com/energylove/originproject/-/blob/main/README.md#codecs)** on XDA & GitLab. For Android 9 & 10+ devices, please read **Codecs** again.
 
 
 Support and discuss more at **[XDA Forums](https://xdaforums.com/t/app-android-tv-youtube-origin-for-google-tv.4699190/)**.
