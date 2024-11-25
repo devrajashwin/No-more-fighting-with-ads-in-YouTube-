@@ -113,7 +113,7 @@ After installation, launch app to enjoy YouTube Origin.
 - Updated **[Codecs](https://gitlab.com/energylove/originproject#codecs)** on XDA & GitLab. For Android 9 & 10+ devices, please read **Codecs** again.
 
 
-Support and discuss more at **[XDA Forums](https://xdaforums.com/t/app-android-tv-youtube-origin-for-google-tv.4699190/)**.
+**Support and discuss more at [XDA Forums](https://xdaforums.com/t/app-android-tv-youtube-origin-for-google-tv.4699190/).**
 
 ---
 
