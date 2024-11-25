@@ -110,7 +110,7 @@ After installation, launch app to enjoy YouTube Origin.
 - Updated banner logo for Projectivy Launcher, Android TV launcher
 - Optimization for Google TV Streamer, Fire TV Stick (MediaTek)
 - Updated layout engine
-- Updated **[Codecs](https://gitlab.com/energylove/originproject/-/blob/main/#codecs)** on XDA & GitLab. For Android 9 & 10+ devices, please read **Codecs** again.
+- Updated **[Codecs](https://gitlab.com/energylove/originproject#codecs)** on XDA & GitLab. For Android 9 & 10+ devices, please read **Codecs** again.
 
 
 Support and discuss more at **[XDA Forums](https://xdaforums.com/t/app-android-tv-youtube-origin-for-google-tv.4699190/)**.
