@@ -31,7 +31,7 @@ This project allows you to enjoy YouTube on Google TV without any ads, providing
 ## Codecs
 
 #### For Android 10+ Devices:
-- By default, **YouTube Origin** supports **HW decoding** for video playback on all devices (except **no-name** Chinese devices with fake technical specs when checked with tools like AIDA64, CPU-Z, Antutu, Device Info HW, etc.).
+- By default, **YouTube Origin** supports **HW decoding** for video playback on **all devices** (except no-name Chinese devices with fake technical specs when checked with tools like AIDA64, CPU-Z, Antutu, Device Info HW, etc.).
 - For **certified** Android devices without AV1 HW decoder, the app will default to using the **dav1d** decoder (dav1d is a default software decoder on Android, available through the **March 2024 Google Play System** update).
 - If the device does not have the dav1d decoder, the HW VP9 decoder will always take priority.
 
