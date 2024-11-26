@@ -105,7 +105,7 @@ After installation, launch app to enjoy YouTube Origin.
 - Fixed screen rotation issue on Android tablets/mobiles (Samsung Tab S10 tested)
 - Fixed screensaver issue on Google TV
 - Fixed crash issue on some devices
-- Enabled playback at the highest resolution quality (1080P/2K)
+- ~~Enabled playback at the highest resolution quality (1080P/2K)~~
 - Updated banner logo for Projectivy Launcher, Android TV launcher
 - Optimization for Google TV Streamer, Fire TV Stick (MediaTek)
 - Updated layout engine
