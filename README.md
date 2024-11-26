@@ -40,8 +40,7 @@ This project allows you to enjoy YouTube on Google TV without any ads, providing
 - **VP9:** HW decoding is only supported for **Qualcomm** and **Exynos** devices.
 - **AV1:** Only supports SW decoding via dav1d decoder but it is highly unlikely that Android 9 devices will have **dav1d** available, meaning 90% of Android 9 devices will not support AV1.
 
-Devices running Android 9 with chipsets from **Amlogic, Allwinner, Rockchip** will not be able to use HW decoding at all. Please upgrade device to Android 10+ if you experience dropped frames while using YouTube Origin.
-
+Devices running Android 9 with chipsets from **Amlogic, Allwinner, Rockchip** will not be able to use HW decoding at all. I'm working on this to find ways to optimize HW playback for all codecs with the processors listed here with Android 9. If you experience dropped frames while using YouTube Origin, please be patient and wait for updates or upgrade to Android 10+ devices.
 
 To test AV1 videos, try TheFatRat's music videos, they all support the AV1 codec. You can check for frame drops and the codec being used in the video through Stats for Nerds.
 
