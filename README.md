@@ -78,6 +78,7 @@ Download and install the **"ZArchiver"** app on your Android phone.
 
 - **[x86_64](https://gitlab.com/energylove/originproject/-/blob/main/Releases/v1.3.3/youtube_origin_googletv_x86_64_release5.zip)** `90.74 MB`
 
+**Support and discuss more at [XDA Forums](https://xdaforums.com/t/app-android-tv-youtube-origin-for-google-tv.4699190/)**.
 
 ### 4. Extract the ZIP file
 Open the downloaded ZIP file in **"ZArchiver"** to extract it, you will find an APK file inside.
@@ -110,9 +111,6 @@ After installation, launch app to enjoy YouTube Origin.
 - Optimization for Google TV Streamer, Fire TV Stick (MediaTek)
 - Updated layout engine
 - Updated **[Codecs](https://gitlab.com/energylove/originproject#codecs)** on XDA & GitLab. For Android 9 & 10+ devices, please read **Codecs** again.
-
-
-**Support and discuss more at [XDA Forums](https://xdaforums.com/t/app-android-tv-youtube-origin-for-google-tv.4699190/).**
 
 ---
 
