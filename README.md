@@ -5,7 +5,7 @@ This project allows you to enjoy YouTube on Google TV without any ads, providing
 ## Features
 - Watch YouTube without ads
 - Original UI
-- Compatible with Google TV.
+- Compatible with Google TV
 - Support Hardware decoding.
 - Block ads with uBlock Origin.
 - Skip sponsor segments with SponsorBlock
