@@ -70,7 +70,7 @@ Download and install the **"ZArchiver"** app on your Android phone.
 
 **Version 1.3.4**
 
-- **[armeabi-v7a]https://gitlab.com/energylove/originproject/-/blob/main/Releases/v1.3.4/youtube_origin_googletv_armeabi-v7a_release10.zip)** `83.08 MiB` (recommended for 90% of streaming devices)
+- **[armeabi-v7a](https://gitlab.com/energylove/originproject/-/blob/main/Releases/v1.3.4/youtube_origin_googletv_armeabi-v7a_release10.zip)** `83.08 MiB` (recommended for 90% of streaming devices)
 
 - **[arm64-v8a](https://gitlab.com/energylove/originproject/-/blob/main/Releases/v1.3.4/youtube_origin_googletv_arm64-v8a_release10.zip)** `86.26 MiB`
 
