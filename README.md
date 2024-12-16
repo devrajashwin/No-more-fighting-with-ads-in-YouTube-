@@ -30,12 +30,12 @@ This project allows you to enjoy YouTube on Google TV without any ads, providing
 
 ## Codecs
 
-#### For Android 10+ Devices:
+### For Android 10+ Devices
 - By default, **YouTube Origin** supports **HW decoding** for video playback for **all devices** (except no-name Chinese devices with fake technical specs when checked with tools like AIDA64, CPU-Z, Antutu, Device Info HW, etc.).
 - For **certified** Android devices without AV1 HW decoder, the app will default to using the **dav1d** decoder (dav1d is a default AV1 SW decoder on Android, available through the March 2024 Google Play System update).
 - If the device does not have the dav1d decoder, the HW VP9 decoder will always take priority.
 
-#### For Android 9 Devices:
+### For Android 9 Devices
 - **H264/AVC1:** HW decoding is only supported for **Qualcomm, MediaTek, Samsung Exynos**, and **Nvidia Tegra** devices (note that **Nvidia Shield** has been updated to Android 11, so this can be ignored).
 - **VP9:** HW decoding is only supported for **Qualcomm** and **Exynos** devices.
 - **AV1:** Only supports SW decoding via dav1d decoder but it is highly unlikely that Android 9 devices will have **dav1d** available, meaning 90% of Android 9 devices will not support AV1.
@@ -46,12 +46,12 @@ To test AV1 videos, try TheFatRat's music videos, they all support the AV1 codec
 
 ## Playback
 
-#### Priority order for codecs:
+### Priority order for codecs
 
 - HW decoding: AV1 > VP9 > AVC1
 - SW decoding: AV1 (dav1d) > AVC1 (not supported VP9 SW)
 
-#### Video quality:
+### Video quality
 
 - YouTube Origin supports video playback up to 1080P/2K (always prioritizing AV1 when available).
 - Starting from March 2024, YouTube will gradually replace VP9 with the new default codec AV1, so there are many videos being upgraded to AV1 causing certain resolutions to be unavailable in specific codecs.
@@ -68,15 +68,15 @@ Download and install the **"ZArchiver"** app on your Android phone.
 
 ### 3. Download YouTube Origin
 
-**Version 1.3.3**
+**Version 1.3.4**
 
-- **[armeabi-v7a](https://gitlab.com/energylove/originproject/-/blob/main/Releases/v1.3.3/youtube_origin_googletv_armeabi-v7a_release5.zip)** `83.36 MB` (recommended for 90% of streaming devices)
+- **[armeabi-v7a]https://gitlab.com/energylove/originproject/-/blob/main/Releases/v1.3.4/youtube_origin_googletv_armeabi-v7a_release10.zip)** `83.08 MiB` (recommended for 90% of streaming devices)
 
-- **[arm64-v8a](https://gitlab.com/energylove/originproject/-/blob/main/Releases/v1.3.3/youtube_origin_googletv_arm64-v8a_release5.zip)** `86.51 MB`
+- **[arm64-v8a](https://gitlab.com/energylove/originproject/-/blob/main/Releases/v1.3.4/youtube_origin_googletv_arm64-v8a_release10.zip)** `86.26 MiB`
 
-- **[x86](https://gitlab.com/energylove/originproject/-/blob/main/Releases/v1.3.3/youtube_origin_googletv_x86_release5.zip)** `95.09 MB`
+- **[x86](https://gitlab.com/energylove/originproject/-/blob/main/Releases/v1.3.4/youtube_origin_googletv_x86_release10.zip)** `95.00 MiB`
 
-- **[x86_64](https://gitlab.com/energylove/originproject/-/blob/main/Releases/v1.3.3/youtube_origin_googletv_x86_64_release5.zip)** `90.74 MB`
+- **[x86_64](https://gitlab.com/energylove/originproject/-/blob/main/Releases/v1.3.4/youtube_origin_googletv_x86_64_release10.zip)** `91.11 MiB`
 
 **Support and discuss more at [XDA Forums](https://xdaforums.com/t/app-android-tv-youtube-origin-for-google-tv.4699190/)**.
 
@@ -95,22 +95,18 @@ After installation, launch app to enjoy YouTube Origin.
 
 ## Changes
 
-**V1.3.3**
+**Version 1.3.4**
 
-- Updated to v5.13.300 (YouTube for Android TV)
-- Updated to v1.61.0 (uBlock Origin)
-- Updated to v5.9.6 (SponsorBlock)
-- Fixed white screen issue when open app
-- Fixed navigation bar flickering issue
-- Fixed the multi-touch issue on touch screen
-- Fixed screen rotation issue on Android tablets/mobiles (Samsung Tab S10 tested)
-- Fixed screensaver issue on Google TV
-- Fixed crash issue on some devices
-- ~~Enabled playback at the highest resolution quality (1080P/2K)~~
-- Updated banner logo for Projectivy Launcher, Android TV launcher
-- Optimization for Google TV Streamer, Fire TV Stick (MediaTek)
-- Updated layout engine
-- Updated **[Codecs](https://gitlab.com/energylove/originproject#codecs)** on XDA & GitLab. For Android 9 & 10+ devices, please read **Codecs** again.
+- Updated to v5.21.300 (YouTube for Android TV)
+- Updated to v1.61.2 (uBlock Origin)
+- Updated to v5.10.3 (SponsorBlock)
+- Improved performance on devices running Android 15
+- Improved performance for unstable connections
+- Optimized for faster loading time on eMMC storage
+- Fixed some known bugs
+- Optimized for Google TV Streamer
+- Updated post #1 on XDA & GitLab
+- Updated latest layout engine
 
 ---
 
