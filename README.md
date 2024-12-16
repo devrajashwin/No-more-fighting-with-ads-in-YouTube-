@@ -46,12 +46,12 @@ To test AV1 videos, try TheFatRat's music videos, they all support the AV1 codec
 
 ## Playback
 
-### Priority order for codecs
+#### Priority order for codecs
 
 - HW decoding: AV1 > VP9 > AVC1
 - SW decoding: AV1 (dav1d) > AVC1 (not supported VP9 SW)
 
-### Video quality
+#### Video quality
 
 - YouTube Origin supports video playback up to 1080P/2K (always prioritizing AV1 when available).
 - Starting from March 2024, YouTube will gradually replace VP9 with the new default codec AV1, so there are many videos being upgraded to AV1 causing certain resolutions to be unavailable in specific codecs.
@@ -60,13 +60,13 @@ For example, if you watching a video with 1080P set as the default quality, but 
 
 ## Installation
 
-### 1. Install "Send Files to TV" App
+#### 1. Install "Send Files to TV" App
 Download and install the **"Send Files to TV"** app on your Android phone and Google TV.
 
-### 2. Install "ZArchiver" App
+#### 2. Install "ZArchiver" App
 Download and install the **"ZArchiver"** app on your Android phone.
 
-### 3. Download YouTube Origin
+#### 3. Download YouTube Origin
 
 **Version 1.3.4**
 
@@ -80,16 +80,16 @@ Download and install the **"ZArchiver"** app on your Android phone.
 
 **Support and discuss more at [XDA Forums](https://xdaforums.com/t/app-android-tv-youtube-origin-for-google-tv.4699190/)**.
 
-### 4. Extract the ZIP file
+#### 4. Extract the ZIP file
 Open the downloaded ZIP file in **"ZArchiver"** to extract it, you will find an APK file inside.
 
-### 5. Transfer APK
+#### 5. Transfer APK
 Use **"Send Files to TV"** to send that APK file to your Google TV.
 
-### 6. Install APK on Google TV
+#### 6. Install APK on Google TV
 Once the APK file is transferred, click to install it.
 
-### 7. Done
+#### 7. Done
 After installation, launch app to enjoy YouTube Origin.
 
 
