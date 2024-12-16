@@ -18,24 +18,24 @@ This project allows you to enjoy YouTube on Google TV without any ads, providing
 
 ## Hardware Requirements
 
-#### For ARM-based Devices:
+#### For ARM-based Devices
 - CPU: Minimum 2x Cortex-A76 cores, 6x Cortex-A55 cores (Tested)
 - GPU: Mali-G76 MP4
 - RAM: 8GB LPDDR4x
 - Storage: UFS 2.1
 
-#### For x86-based Devices:
+#### For x86-based Devices
 - Processor: Intel Core i3 1005G1 (Tested)
 - RAM: 4GB
 
 ## Codecs
 
-### For Android 10+ Devices
+#### For Android 10+ Devices
 - By default, **YouTube Origin** supports **HW decoding** for video playback for **all devices** (except no-name Chinese devices with fake technical specs when checked with tools like AIDA64, CPU-Z, Antutu, Device Info HW, etc.).
 - For **certified** Android devices without AV1 HW decoder, the app will default to using the **dav1d** decoder (dav1d is a default AV1 SW decoder on Android, available through the March 2024 Google Play System update).
 - If the device does not have the dav1d decoder, the HW VP9 decoder will always take priority.
 
-### For Android 9 Devices
+#### For Android 9 Devices
 - **H264/AVC1:** HW decoding is only supported for **Qualcomm, MediaTek, Samsung Exynos**, and **Nvidia Tegra** devices (note that **Nvidia Shield** has been updated to Android 11, so this can be ignored).
 - **VP9:** HW decoding is only supported for **Qualcomm** and **Exynos** devices.
 - **AV1:** Only supports SW decoding via dav1d decoder but it is highly unlikely that Android 9 devices will have **dav1d** available, meaning 90% of Android 9 devices will not support AV1.
