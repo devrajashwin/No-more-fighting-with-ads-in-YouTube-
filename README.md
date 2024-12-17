@@ -86,15 +86,15 @@ Download and install the **"ZArchiver"** app on your Android phone.
 
 #### 3. Download YouTube Origin
 
-**Version 1.3.4**
+**Version 1.3.4(3)**
 
-- **[armeabi-v7a](https://gitlab.com/energylove/originproject/-/blob/main/Releases/v1.3.4/youtube_origin_googletv_armeabi-v7a_release10.zip)** `83.08 MB` (recommended for 90% of streaming devices)
+- **[armeabi-v7a](https://gitlab.com/energylove/originproject/-/blob/main/Releases/v1.3.4(3)/youtube_origin_googletv_armeabi-v7a_release15.zip)** `81.67 MB` (recommended for 90% of streaming devices)
 
-- **[arm64-v8a](https://gitlab.com/energylove/originproject/-/blob/main/Releases/v1.3.4/youtube_origin_googletv_arm64-v8a_release10.zip)** `86.26 MB`
+- **[arm64-v8a](https://gitlab.com/energylove/originproject/-/blob/main/Releases/v1.3.4(3)/youtube_origin_googletv_arm64-v8a_release15.zip)** `84.88 MB`
 
-- **[x86](https://gitlab.com/energylove/originproject/-/blob/main/Releases/v1.3.4/youtube_origin_googletv_x86_release10.zip)** `95.00 MB`
+- **[x86](https://gitlab.com/energylove/originproject/-/blob/main/Releases/v1.3.4(3)/youtube_origin_googletv_x86_release15.zip)** `93.38 MB`
 
-- **[x86_64](https://gitlab.com/energylove/originproject/-/blob/main/Releases/v1.3.4/youtube_origin_googletv_x86_64_release10.zip)** `91.11 MB`
+- **[x86_64](https://gitlab.com/energylove/originproject/-/blob/main/Releases/v1.3.4(3)/youtube_origin_googletv_x86_64_release15.zip)** `88.96 MB`
 
 **Support and discuss more at [XDA Forums](https://xdaforums.com/t/app-android-tv-youtube-origin-for-google-tv.4699190/)**.
 
@@ -125,6 +125,10 @@ After installation, launch app to enjoy YouTube Origin.
 - Optimized for Google TV Streamer
 - Updated post #1 on XDA & GitLab
 - Updated latest layout engine
+
+**Version 1.3.4(3)**
+
+- Fixed some serious bugs related to the UI.
 
 ---
 
