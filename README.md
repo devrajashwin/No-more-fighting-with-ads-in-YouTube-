@@ -119,7 +119,7 @@ After installation, launch app to enjoy YouTube Origin.
 - Optimized for faster loading time on eMMC storage
 - Fixed some known bugs
 - Optimized for Google TV Streamer
-- Updated post #1 on XDA & GitLab
+- Updated GitLab and post #1 on XDA, adding information about the Playback for YouTube Origin.
 - Updated latest layout engine
 
 **Version 1.3.4(3)**
