@@ -76,10 +76,6 @@ YouTube Origin does not support 60fps video streams for any resolution (only 30f
 
 Currently, only a few streaming devices support a real 4K UI, and most of these use Realtek chipsets (e.g., RTD1315C, RTD1325) manufactured by Innopia, with Mali-G57 GPUs capable of handling 4K UI. YouTube Origin can playback 4K@30fps on Realtek-based devices.
 
-**Playback Issues on 4K Devices with Real 4K UI**
-
-If you own a 4K device with real 4K UI and have an issue where selecting 2160P in Quality for current video immediately drops to 1080P, the likely cause is the device’s lack of AV1 HW decoding. In this case, 1080P VP9 HW decoding will be selected for playback. This is a common limitation on many Android tablets manufactured before 2021.
-
 ## Installation
 
 #### 1. Install "Send Files to TV" App
