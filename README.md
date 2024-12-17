@@ -54,7 +54,7 @@ To test AV1 videos, try TheFatRat's music videos, they all support the AV1 codec
 
 #### Video quality
 
-- YouTube Origin supports video playback up to 1080P/2K (always prioritizing AV1 when available).
+- YouTube Origin supports video playback up to 4K@30fps (require device support 4K UI for all apps). However, most devices will be limited to 1080P@30fps, except for devices with Realtek chipsets.
 
 YouTube Origin does not support 60fps video streams for any resolution (only 30fps streams are supported). This means that if you search for a 4K@60fps video in YouTube Origin, you will only get maximum resolution at 720P@30fps. This happens because YouTube does not provide 30fps streams for 4K@60fps or 1080P@60fps videos. As a result, only 720P or lower resolutions are available at 30fps and will be selected for playback. Since most HDR videos are only available in 60fps streams, YouTube Origin cannot play HDR for 90% of videos on YouTube.
 
