@@ -128,6 +128,6 @@ After installation, launch app to enjoy YouTube Origin.
 
 ---
 
-##### YouTube Origin Project
+###### YouTube Origin Project.
 
 ![IMAGE_DESCRIPTION](https://image.jimcdn.com/app/cms/image/transf/none/path/s293f5a94d3403280/image/i4074178470a6059a/version/1677224408/image.png)
