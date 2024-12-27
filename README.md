@@ -82,17 +82,17 @@ Download and install the **"ZArchiver"** app on your Android phone.
 
 ### 3. Download YouTube Origin
 
-**Version 1.3.4(3)**
+#### Version 1.3.4z
 
-- **[armeabi-v7a](https://gitlab.com/energylove/originproject/-/blob/main/Releases/v1.3.4(3)/youtube_origin_googletv_armeabi-v7a_release15.zip)** `81.67 MB` (recommended for 90% of streaming devices)
+- **[armeabi-v7a](https://gitlab.com/energylove/originproject/-/blob/main/Releases/v1.3.4z/youtube_origin_googletv_armeabi-v7a_release20.zip)** `83.08 MB` (recommended for 90% of streaming devices)
 
-- **[arm64-v8a](https://gitlab.com/energylove/originproject/-/blob/main/Releases/v1.3.4(3)/youtube_origin_googletv_arm64-v8a_release15.zip)** `84.88 MB`
+- **[arm64-v8a](https://gitlab.com/energylove/originproject/-/blob/main/Releases/v1.3.4z/youtube_origin_googletv_arm64-v8a_release20.zip)** `86.26 MB`
 
-- **[x86](https://gitlab.com/energylove/originproject/-/blob/main/Releases/v1.3.4(3)/youtube_origin_googletv_x86_release15.zip)** `93.38 MB`
+- **[x86](https://gitlab.com/energylove/originproject/-/blob/main/Releases/v1.3.4z/youtube_origin_googletv_x86_release20.zip)** `95.00 MB`
 
-- **[x86_64](https://gitlab.com/energylove/originproject/-/blob/main/Releases/v1.3.4(3)/youtube_origin_googletv_x86_64_release15.zip)** `88.96 MB`
+- **[x86_64](https://gitlab.com/energylove/originproject/-/blob/main/Releases/v1.3.4z/youtube_origin_googletv_x86_release20.zip)** `91.11 MB`
 
-**Support and discuss more at [XDA Forums](https://xdaforums.com/t/app-android-tv-youtube-origin-for-google-tv.4699190/)**.
+##### Support and discuss more at [XDA Forums](https://xdaforums.com/t/app-android-tv-youtube-origin-for-google-tv.4699190/).
 
 ### 4. Extract the ZIP file
 Open the downloaded ZIP file in **"ZArchiver"** to extract it, you will find an APK file inside.
@@ -109,7 +109,7 @@ After installation, launch app to enjoy YouTube Origin.
 
 ## Changes
 
-**Version 1.3.4**
+#### Version 1.3.4 `December 17, 2024`
 
 - Updated to v5.21.300 (YouTube for Android TV)
 - Updated to v1.61.2 (uBlock Origin)
@@ -122,12 +122,19 @@ After installation, launch app to enjoy YouTube Origin.
 - Updated GitLab and post #1 on XDA, adding information about the Playback for YouTube Origin.
 - Updated latest layout engine
 
-**Version 1.3.4(3)**
+#### Version 1.3.4(3) `December 17, 2024`
 
 - Fixed some serious bugs related to the UI.
 
+#### Version 1.3.4z `December 27, 2024` `New`
+
+- Improved overall performance
+- Fixed some known bugs
+- Updated latest layout engine
+- Updated GitLab and post #1 on XDA
+
 ---
 
-**YouTube Origin Project.**
+###### YouTube Origin Project.
 
 ![IMAGE_DESCRIPTION](https://image.jimcdn.com/app/cms/image/transf/none/path/s293f5a94d3403280/image/i4074178470a6059a/version/1677224408/image.png)
