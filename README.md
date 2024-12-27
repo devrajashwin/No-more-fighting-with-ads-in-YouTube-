@@ -19,24 +19,24 @@ This project allows you to enjoy YouTube on Google TV without any ads, providing
 
 ## Hardware Requirements
 
-#### For ARM-based Devices
+### For ARM-based Devices
 - CPU: Minimum 2x Cortex-A76 cores, 6x Cortex-A55 cores (Tested)
 - GPU: Mali-G76 MP4
 - RAM: 8GB LPDDR4x
 - Storage: UFS 2.1
 
-#### For x86-based Devices
+### For x86-based Devices
 - Processor: Intel Core i3 1005G1 (Tested)
 - RAM: 4GB
 
 ## Codecs
 
-#### For Android 10+ Devices
+### For Android 10+ Devices
 - By default, YouTube Origin supports **HW decoding** for video playback for **all devices** (except no-name Chinese devices with fake technical specs when checked with tools like AIDA64, CPU-Z, Antutu, Device Info HW, etc.).
 - For **certified** Android devices without AV1 HW decoder, the app will default to using the **dav1d** decoder (dav1d is a default AV1 SW decoder on Android, available through the March 2024 Google Play System update).
 - If the device does not have the dav1d decoder, the HW VP9 decoder will always take priority.
 
-#### For Android 9 Devices
+### For Android 9 Devices
 - **H264/AVC1:** HW decoding is only supported for **Qualcomm, MediaTek, Samsung Exynos**, and **Nvidia Tegra** devices (note that **Nvidia Shield** has been updated to Android 11, so this can be ignored).
 - **VP9:** HW decoding is only supported for **Qualcomm** and **Exynos** devices.
 - **AV1:** Only supports SW decoding via dav1d decoder but it is highly unlikely that Android 9 devices will have **dav1d** available, meaning 90% of Android 9 devices will not support AV1.
@@ -47,12 +47,12 @@ To test AV1 videos, try TheFatRat's music videos, they all support the AV1 codec
 
 ## Playback
 
-#### Priority order for codecs
+### Priority order for codecs
 
 - HW decoding: AV1 > VP9 > AVC1
 - SW decoding: AV1 (dav1d) > AVC1 (not supported VP9 SW)
 
-#### Video quality
+### Video quality
 
 - YouTube Origin supports video playback up to 4K@30fps (require device support 4K UI for all apps). However, most devices will be limited to 1080P@30fps, except for devices with Realtek chipsets.
 
@@ -62,7 +62,7 @@ YouTube Origin does not support 60fps video streams for any resolution (only 30f
 
 For example, if you watching a video with 1080P set as the default quality, but for the next video, you check **Quality for current video** showing 720P, this is normal. This happens because 720P might be the highest available quality in AV1 (while 1080P is only available in VP9). Meaning, between 1080P VP9 & 720P AV1, 720P AV1 will be chosen for playback. Similarly, between 1080P AVC1 & 720P VP9, 720P VP9 will be preferred.
 
-#### Why does this app always playback in 1080P on 4K TV?
+### Why does this app always playback in 1080P on 4K TV?
 
 - The main reason is that 99% of streaming devices have weak GPU, sufficient only to handle 4K playback and nothing more (most devices use chipsets from Amlogic or MediaTek). These devices render the UI at 1080P for all apps on 4K displays. This means everything displayed on a 4K TV, including the UI, is actually 1080P. If these devices rendered a real 4K UI, their performance would drop significantly.
 
@@ -74,13 +74,13 @@ Currently, only a few streaming devices support a real 4K UI, and most of these 
 
 ## Installation
 
-#### 1. Install "Send Files to TV" App
+### 1. Install "Send Files to TV" App
 Download and install the **"Send Files to TV"** app on your Android phone and Google TV.
 
-#### 2. Install "ZArchiver" App
+### 2. Install "ZArchiver" App
 Download and install the **"ZArchiver"** app on your Android phone.
 
-#### 3. Download YouTube Origin
+### 3. Download YouTube Origin
 
 **Version 1.3.4(3)**
 
@@ -94,16 +94,16 @@ Download and install the **"ZArchiver"** app on your Android phone.
 
 **Support and discuss more at [XDA Forums](https://xdaforums.com/t/app-android-tv-youtube-origin-for-google-tv.4699190/)**.
 
-#### 4. Extract the ZIP file
+### 4. Extract the ZIP file
 Open the downloaded ZIP file in **"ZArchiver"** to extract it, you will find an APK file inside.
 
-#### 5. Transfer APK
+### 5. Transfer APK
 Use **"Send Files to TV"** to send that APK file to your Google TV.
 
-#### 6. Install APK on Google TV
+### 6. Install APK on Google TV
 Once the APK file is transferred, click to install it.
 
-#### 7. Done
+### 7. Done
 After installation, launch app to enjoy YouTube Origin.
 
 
