@@ -1,4 +1,4 @@
-<img src="https://xdaforums.com/attachments/play_store_512-png.6161047/" alt="play_store_512.png" width="96" height="96">
+<img src="https://xdaforums.com/attachments/play_store_512-png.6161047/" alt="play_store_512.png" width="128" height="128">
 
 ## YouTube Origin for Google TV
 
