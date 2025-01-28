@@ -1,3 +1,5 @@
+<img src="https://xdaforums.com/attachments/play_store_512-png.6161047/" alt="play_store_512.png" width="96" height="96">
+
 ## YouTube Origin for Google TV
 
 This project allows you to enjoy YouTube on Google TV without any ads, providing a seamless and uninterrupted viewing experience.
@@ -93,6 +95,8 @@ Download and install the **"ZArchiver"** app on your Android phone.
 - **[x86_64](https://gitlab.com/energylove/originproject/-/blob/main/Releases/v1.3.5/youtube_origin_googletv_x86_64_release25.zip)** `92.31 MB`
 
 ##### Support and discuss more at [XDA Forums](https://xdaforums.com/t/app-android-tv-youtube-origin-for-google-tv.4699190/).
+
+Please enable **Push Notifications** in the XDA Forums **[here](https://xdaforums.com/account/preferences)** to receive alerts about the latest updates of YouTube Origin. You will need to manually install updates following the **[Installation](https://gitlab.com/energylove/originproject/-/edit/main/README.md#installation)**.
 
 ### 4. Extract the ZIP file
 Open the downloaded ZIP file in **"ZArchiver"** to extract it, you will find an APK file inside.
