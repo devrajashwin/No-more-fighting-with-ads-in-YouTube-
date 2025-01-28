@@ -62,15 +62,15 @@ YouTube Origin does not support 60fps video streams for any resolution (only 30f
 
 For example, if you watching a video with 1080P set as the default quality, but for the next video, you check **Quality for current video** showing 720P, this is normal. This happens because 720P might be the highest available quality in AV1 (while 1080P is only available in VP9). Meaning, between 1080P VP9 & 720P AV1, 720P AV1 will be chosen for playback. Similarly, between 1080P AVC1 & 720P VP9, 720P VP9 will be preferred.
 
-### Why does this app always playback in 1080P on 4K TV?
+### This app always playback in 1080P on your 4K TV :(
 
-- The main reason is that 99% of streaming devices have weak GPU, sufficient only to handle 4K playback and nothing more (most devices use chipsets from Amlogic or MediaTek). These devices render the UI at 1080P for all apps on 4K displays. This means everything displayed on a 4K TV, including the UI, is actually 1080P. If these devices rendered a real 4K UI, their performance would drop significantly.
+- The main reason is 99% of streaming devices have very weak GPU, sufficient only to handle 4K playback and nothing more (most devices use chipsets from Amlogic or MediaTek). These devices render the UI at 1080P for all apps on 4K displays. This means everything displayed on a 4K TV, including the UI, is actually 1080P. If these devices rendered a real 4K UI, their performance would drop significantly.
 
 - YouTube Origin determines the resolution based on the viewport. If the UI is rendered at 1080P on a 4K TV, the app will offer a maximum resolution of 1080P@30fps or 720P@30fps for playback. In contrast, the official YouTube app uses advanced techniques to detect the physical hardware capabilities of TVs (including their actual resolution, bypassing the viewport) to force 4K video playback even on a 1080P UI.
 
 - YouTube Origin, however, simply plays videos based on the available UI resolution. I have attempted to force the viewport to support 4K playback, but my code is not reliable in many cases. Therefore, I decided to stick to the native UI viewport for easier maintenance. In the future, when 100% of streaming devices support 4K UI, this issue will resolve itself, so I won’t spend time on it.
 
-Currently, only a few streaming devices support a real 4K UI, and most of these use Realtek chipsets (e.g., RTD1315C, RTD1325) manufactured by Innopia, with Mali-G57 capable of handling 4K UI. YouTube Origin can playback 4K@30fps on Realtek devices.
+Currently, only a few streaming devices support a real 4K UI, and most of these use Realtek chipsets (e.g., RTD1315C, RTD1325) with Mali-G57 capable of handling 4K UI. YouTube Origin supported 4K@30fps on these devices with Realtek.
 
 ## Installation
 
@@ -82,15 +82,15 @@ Download and install the **"ZArchiver"** app on your Android phone.
 
 ### 3. Download YouTube Origin
 
-#### Version 1.3.4z
+#### Version 1.3.5
 
-- **[armeabi-v7a](https://gitlab.com/energylove/originproject/-/blob/main/Releases/v1.3.4z/youtube_origin_googletv_armeabi-v7a_release20.zip)** `83.08 MB` (recommended for 90% of streaming devices)
+- **[armeabi-v7a](https://gitlab.com/energylove/originproject/-/blob/main/Releases/v1.3.5/youtube_origin_googletv_armeabi-v7a_release25.zip)** `84.33 MB` (recommended for 90% of streaming devices)
 
-- **[arm64-v8a](https://gitlab.com/energylove/originproject/-/blob/main/Releases/v1.3.4z/youtube_origin_googletv_arm64-v8a_release20.zip)** `86.26 MB`
+- **[arm64-v8a](https://gitlab.com/energylove/originproject/-/blob/main/Releases/v1.3.5/youtube_origin_googletv_arm64-v8a_release25.zip)** `87.30 MB`
 
-- **[x86](https://gitlab.com/energylove/originproject/-/blob/main/Releases/v1.3.4z/youtube_origin_googletv_x86_release20.zip)** `95.00 MB`
+- **[x86](https://gitlab.com/energylove/originproject/-/blob/main/Releases/v1.3.5/youtube_origin_googletv_x86_release25.zip)** `96.39 MB`
 
-- **[x86_64](https://gitlab.com/energylove/originproject/-/blob/main/Releases/v1.3.4z/youtube_origin_googletv_x86_release20.zip)** `91.11 MB`
+- **[x86_64](https://gitlab.com/energylove/originproject/-/blob/main/Releases/v1.3.5/youtube_origin_googletv_x86_64_release25.zip)** `92.31 MB`
 
 ##### Support and discuss more at [XDA Forums](https://xdaforums.com/t/app-android-tv-youtube-origin-for-google-tv.4699190/).
 
@@ -109,29 +109,14 @@ After installation, launch app to enjoy YouTube Origin.
 
 ## Changes
 
-#### Version 1.3.4 `December 17, 2024`
+#### Version 1.3.5 `01.28.2025`
 
-- Updated to v5.21.300 (YouTube for Android TV)
-- Updated to v1.61.2 (uBlock Origin)
-- Updated to v5.10.3 (SponsorBlock)
-- Improved performance on devices running Android 15
-- Improved performance for unstable connections
-- Optimized for faster loading time on eMMC storage
-- Fixed some known bugs
-- Optimized for Google TV Streamer
-- Updated GitLab and post #1 on XDA, adding information about the Playback for YouTube Origin.
-- Updated latest layout engine
-
-#### Version 1.3.4(3) `December 17, 2024`
-
-- Fixed some serious bugs related to the UI.
-
-#### Version 1.3.4z `December 27, 2024` `New`
-
-- Improved overall performance
-- Fixed some known bugs
-- Updated latest layout engine
-- Updated GitLab and post #1 on XDA
+- Updated to v5.22.302 (YouTube for Android TV)
+- Updated to v1.62.0 (uBlock Origin)
+- Updated to v5.11.2 (SponsorBlock)
+- Updated latest rendering engine
+- **New:** Added official Widevine DRM for VOD content on YouTube (Movies & TV)
+- Updated post #1 on XDA & GitLab, added information about the updates.
 
 ---
 
