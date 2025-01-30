@@ -125,7 +125,7 @@ After installation, launch app to enjoy YouTube Origin.
 #### Version 1.3.5(4) `01.30.2025`
 
 - Fixed some known bugs
-- Optimized codes related to the Widevine DRM.
+- Optimized code related to Widevine DRM.
 
 ---
 
