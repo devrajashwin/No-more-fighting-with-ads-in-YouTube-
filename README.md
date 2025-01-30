@@ -72,7 +72,7 @@ For example, if you watching a video with 1080P set as the default quality, but 
 
 - YouTube Origin, however, simply plays videos based on the available UI resolution. I have attempted to force the viewport to support 4K playback, but my code is not reliable in many cases. Therefore, I decided to stick to the native UI viewport for easier maintenance. In the future, when 100% of streaming devices support 4K UI, this issue will resolve itself, so I won’t spend time on it.
 
-Currently, only a few streaming devices support a real 4K UI, and most of these use Realtek chipsets (e.g., RTD1315C, RTD1325) with Mali-G57 capable of handling 4K UI. YouTube Origin supported 4K@30fps on these devices with Realtek.
+Currently, only a few streaming devices support a real 4K UI, and most of these use Realtek chipsets (e.g., RTD1315C, RTD1325) with Mali-G57 capable of handling 4K UI. YouTube Origin supports 4K@30fps on these Realtek-based devices.
 
 ## Installation
 
@@ -84,15 +84,15 @@ Download and install the **"ZArchiver"** app on your Android phone.
 
 ### 3. Download YouTube Origin
 
-#### Version 1.3.5
+#### Version 1.3.5(4)
 
-- **[armeabi-v7a](https://gitlab.com/energylove/originproject/-/blob/main/Releases/v1.3.5/youtube_origin_googletv_armeabi-v7a_release25.zip)** `84.33 MB` (recommended for 90% of streaming devices)
+- **[armeabi-v7a](https://gitlab.com/energylove/originproject/-/blob/main/Releases/v1.3.5(4)/youtube_origin_googletv_armeabi-v7a_release30.zip)** `83.04 MB` (recommended for 90% of streaming devices)
 
-- **[arm64-v8a](https://gitlab.com/energylove/originproject/-/blob/main/Releases/v1.3.5/youtube_origin_googletv_arm64-v8a_release25.zip)** `87.30 MB`
+- **[arm64-v8a](https://gitlab.com/energylove/originproject/-/blob/main/Releases/v1.3.5(4)/youtube_origin_googletv_arm64-v8a_release30.zip)** `86.30 MB`
 
-- **[x86](https://gitlab.com/energylove/originproject/-/blob/main/Releases/v1.3.5/youtube_origin_googletv_x86_release25.zip)** `96.39 MB`
+- **[x86](https://gitlab.com/energylove/originproject/-/blob/main/Releases/v1.3.5(4)/youtube_origin_googletv_x86_release30.zip)** `94.90 MB`
 
-- **[x86_64](https://gitlab.com/energylove/originproject/-/blob/main/Releases/v1.3.5/youtube_origin_googletv_x86_64_release25.zip)** `92.31 MB`
+- **[x86_64](https://gitlab.com/energylove/originproject/-/blob/main/Releases/v1.3.5(4)/youtube_origin_googletv_x86_64_release30.zip)** `90.97 MB`
 
 ##### Support and discuss more at [XDA Forums](https://xdaforums.com/t/app-android-tv-youtube-origin-for-google-tv.4699190/).
 
@@ -121,6 +121,11 @@ After installation, launch app to enjoy YouTube Origin.
 - Updated latest rendering engine
 - **New:** Added official Widevine DRM for VOD content on YouTube (Movies & TV)
 - Updated post #1 on XDA & GitLab, added information about the updates.
+
+#### Version 1.3.5(4) `01.30.2025`
+
+- Fixed some known bugs
+- Optimized codes related to the Widevine DRM.
 
 ---
 
