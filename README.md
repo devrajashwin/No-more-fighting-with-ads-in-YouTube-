@@ -70,13 +70,13 @@ YouTube Origin does not support 60fps video streams for any resolution (only 30f
 
 For example, if you watching a video with 1080P set as the default quality, but for the next video, you check **Quality for current video** showing 720P, this is normal. This happens because 720P might be the highest available quality in AV1 (while 1080P is only available in VP9). Meaning, between 1080P VP9 & 720P AV1, 720P AV1 will be chosen for playback. Similarly, between 1080P AVC1 & 720P VP9, 720P VP9 will be preferred.
 
-### This app always playback in 1080P on your 4K TV :(
+### Playback Limitation on 4K TVs
 
-- The main reason is 99% of streaming devices have very weak GPU, sufficient only to handle 4K playback and nothing more (most devices use chipsets from Amlogic or MediaTek). These devices render the UI at 1080P for all apps on 4K displays. This means everything displayed on a 4K TV, including the UI, is actually 1080P. If these devices rendered a real 4K UI, their performance would drop significantly.
+- This app only plays in 1080P on 4K TVs due to the weak GPUs found in most streaming devices, which can handle 4K video but render the UI at 1080P. As a result, everything displayed, including the UI, is at 1080P.
 
-- YouTube Origin determines the resolution based on the viewport. If the UI is rendered at 1080P on a 4K TV, the app will offer a maximum resolution of 1080P@30fps or 720P@30fps for playback. In contrast, the official YouTube app uses advanced techniques to detect the physical hardware capabilities of TVs (including their actual resolution, bypassing the viewport) to force 4K video playback even on a 1080P UI.
+- YouTube Origin determines playback resolution based on the UI resolution. If the UI is rendered at 1080P, the app can only offer a maximum of 1080P@30fps or 720P@30fps. In contrast, the official YouTube app can detect the TV's actual resolution and force 4K playback, even with a 1080P UI.
 
-- YouTube Origin, however, simply plays videos based on the available UI resolution. I have attempted to force the viewport to support 4K playback, but my code is not reliable in many cases. Therefore, I decided to stick to the native UI viewport for easier maintenance. In the future, when 100% of streaming devices support 4K UI, this issue will resolve itself, so I won’t spend time on it.
+- I’ve tried to enable 4K playback by forcing the viewport, but it’s not consistently reliable. For now, I’ll stick to the native UI for easier maintenance. This issue should resolve itself once all streaming devices support 4K UI.
 
 Currently, only a few streaming devices support a real 4K UI, and most of these use Realtek chipsets (e.g., RTD1315C, RTD1325) with Mali-G57 capable of handling 4K UI. YouTube Origin supports 4K@30fps on these Realtek-based devices.
 
