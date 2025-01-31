@@ -9,7 +9,7 @@ This project allows you to enjoy YouTube on Google TV without any ads, providing
 - Original UI
 - Compatible with Google TV
 - Remove over-sharpening for video playback
-- Support Hardware decoding
+- Support hardware decoding
 - Block ads with uBlock Origin
 - Skip sponsor segments with SponsorBlock
 - Adjust video speed using **Up/Down** buttons (up to ∞) on the remote with Youtube Speed Control.
