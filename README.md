@@ -1,8 +1,12 @@
+<div align="center">
 <img src="https://xdaforums.com/attachments/play_store_512-png.6161047/" alt="play_store_512.png" width="100" height="100">
+</div>
 
-## YouTube Origin for Google TV
+<div align="center">
+<strong>YouTube Origin for Google TV<strong>
+</div>
 
-This project allows you to enjoy YouTube on Google TV without any ads, providing a seamless and uninterrupted viewing experience.
+> This project allows you to enjoy YouTube on Google TV without any ads, providing a seamless and uninterrupted viewing experience.
 
 ## Features
 - Watch YouTube without ads
