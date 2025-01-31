@@ -3,7 +3,9 @@
 </div>
 
 <div align="center">
-<strong>YouTube Origin for Google TV<strong>
+
+### YouTube Origin for Google TV
+
 </div>
 
 > This project allows you to enjoy YouTube on Google TV without any ads, providing a seamless and uninterrupted viewing experience.
