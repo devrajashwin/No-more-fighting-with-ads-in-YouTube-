@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://xdaforums.com/attachments/play_store_512-png.6161047/" alt="play_store_512.png" width="109" height="109">
+<img src="https://xdaforums.com/attachments/play_store_512-png.6161047/" alt="play_store_512.png" width="115" height="115">
 </div>
 
 <div align="center">
