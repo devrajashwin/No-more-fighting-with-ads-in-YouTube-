@@ -96,7 +96,9 @@ Download and install the **"ZArchiver"** app on your Android phone.
 
 ##### Support and discuss more at [XDA Forums](https://xdaforums.com/t/app-android-tv-youtube-origin-for-google-tv.4699190/).
 
-Please enable **Push Notifications** in the XDA Forums **[here](https://xdaforums.com/account/preferences)** to receive alerts about the latest updates of YouTube Origin. You will need to manually install updates following the **[Installation](https://gitlab.com/energylove/originproject#installation)**.
+Please enable **Push Notifications** in the XDA Forums **[here](https://xdaforums.com/account/preferences)** to receive alerts about the latest updates of YouTube Origin.
+
+You will need to manually install updates following the **[installation](https://gitlab.com/energylove/originproject#installation)**, so if you are satisfied with a specific release, the advice is that you do not necessarily need to update the app. A release of YouTube Origin can be used for 6 months to 1 year without updates.
 
 ### 4. Extract the ZIP file
 Open the downloaded ZIP file in **"ZArchiver"** to extract it, you will find an APK file inside.
