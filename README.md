@@ -29,7 +29,7 @@
 
 ### For ARM-based Devices
 - CPU: Minimum 2x Cortex®-A76 + 6x Cortex®-A55 (Tested)
-- GPU: Mali™-G76 MP4
+- GPU: Mali-G76 MP4
 - RAM: 8GB LPDDR4x
 - Storage: UFS 2.1
 
