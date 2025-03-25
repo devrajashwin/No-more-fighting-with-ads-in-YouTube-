@@ -23,13 +23,13 @@
 
 ## Requirements
 - **Android 9+** (Google TV, Fire TV, Android TV, Android tablets, Android phones)
-- Require Bluetooth remote to use YouTube Origin.
+- Bluetooth remote is required for use.
 
 ## Hardware Requirements
 
 ### For ARM-based Devices
-- CPU: Minimum 2x Cortex-A76 + 6x Cortex-A55 (Tested)
-- GPU: Mali-G76 MP4
+- CPU: Minimum 2x Cortex®-A76 + 6x Cortex®-A55 (Tested)
+- GPU: Mali™-G76 MP4
 - RAM: 8GB LPDDR4x
 - Storage: UFS 2.1
 
