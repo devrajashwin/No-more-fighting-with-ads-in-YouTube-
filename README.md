@@ -18,7 +18,7 @@
 - Support hardware decoding
 - Block ads with uBlock Origin
 - Skip sponsor segments with SponsorBlock
-- Adjust video speed using **Up/Down** buttons (up to ∞) on the remote with Youtube Speed Control.
+- Adjust video speed using **Page Up/Down** buttons (up to ∞) on the remote with Youtube Speed Control.
 - Replaces thumbnails with Clickbait Remover for Youtube (experiment, not available now).
 
 ## Requirements
