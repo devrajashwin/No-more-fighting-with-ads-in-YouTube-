@@ -91,7 +91,7 @@ Download and install the **"ZArchiver"** app on your Android phone.
 
 - **[x86_64](https://gitlab.com/energylove/originproject/-/blob/main/Releases/v1.3.9/youtube_origin_googletv_x86_64_release45.zip)** `93.57 MB`
 
-#### Support and discuss more at [XDA Forums](https://xdaforums.com/t/app-android-tv-youtube-origin-for-google-tv.4699190/).
+##### Support and discuss more at [XDA Forums](https://xdaforums.com/t/app-android-tv-youtube-origin-for-google-tv.4699190/).
 
 Please enable **Push Notifications** in the XDA Forums **[here](https://xdaforums.com/account/preferences)** and follow the official thread **[here](https://xdaforums.com/t/app-android-tv-youtube-origin-for-google-tv.4699190/watch)** to receive alerts about the latest updates for YouTube Origin. If you do not have an XDA account, you will need to create one.
 
