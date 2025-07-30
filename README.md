@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://xdaforums.com/attachments/play_store_512-png.6161047/" alt="play_store_512.png" width="105" height="105">
+<img src="https://xdaforums.com/attachments/play_store_512-png.6161047/" alt="play_store_512.png" width="109" height="109">
 </div>
 
 <div align="center">
@@ -8,18 +8,21 @@
 
 </div>
 
-> _This project allows you to enjoy YouTube on Google TV without any ads, providing a seamless and uninterrupted viewing experience._
+> **This project allows you to enjoy YouTube on Google TV without any ads, providing a seamless and uninterrupted viewing experience.**
 
 ## Features
 - Watch YouTube without ads
 - Original UI
 - Compatible with Google TV
-- Remove over-sharpening for video playback
+- Support for official Widevine DRM for on-demand video content in Movies & TV (*) 
 - Support hardware decoding
-- Block ads with uBlock Origin
+- Remove over-sharpening for video playback
+- Block ads with **uBlock Origin**
 - Skip sponsor segments with SponsorBlock
 - Adjust video speed using **Page Up/Down** buttons (up to ∞) on the remote with Youtube Speed Control.
-- Replaces thumbnails with Clickbait Remover for Youtube (experiment, not available now).
+- Replace thumbnails with Clickbait Remover for Youtube (experiment, not available now).
+
+ _(*) Only supports free content. Other content requires a subscription._
 
 ## Requirements
 - **Android 9+** (Google TV, Fire TV, Android TV, Android tablets, Android phones)
@@ -82,14 +85,14 @@ Download and install the **"ZArchiver"** app on your Android phone.
 
 ### 3. Download YouTube Origin
 
-#### Version 1.3.9
-- **[armeabi-v7a](https://gitlab.com/energylove/originproject/-/blob/main/Releases/v1.3.9/youtube_origin_googletv_armeabi-v7a_release45.zip)** `85.82 MB` (recommended for 90% of streaming devices)
+#### Version 1.4.1
+- **[armeabi-v7a](https://gitlab.com/energylove/originproject/-/blob/main/Releases/v1.4.1/youtube_origin_googletv_armeabi-v7a_release50.zip)** `86.53 MB` (recommended for 90% of streaming devices)
 
-- **[arm64-v8a](https://gitlab.com/energylove/originproject/-/blob/main/Releases/v1.3.9/youtube_origin_googletv_arm64-v8a_release45.zip)** `88.42 MB`
+- **[arm64-v8a](https://gitlab.com/energylove/originproject/-/blob/main/Releases/v1.4.1/youtube_origin_googletv_arm64-v8a_release50.zip)** `88.76 MB`
 
-- **[x86](https://gitlab.com/energylove/originproject/-/blob/main/Releases/v1.3.9/youtube_origin_googletv_x86_release45.zip)** `98.06 MB`
+- **[x86](https://gitlab.com/energylove/originproject/-/blob/main/Releases/v1.4.1/youtube_origin_googletv_x86_release50.zip)** `97.64 MB`
 
-- **[x86_64](https://gitlab.com/energylove/originproject/-/blob/main/Releases/v1.3.9/youtube_origin_googletv_x86_64_release45.zip)** `93.57 MB`
+- **[x86_64](https://gitlab.com/energylove/originproject/-/blob/main/Releases/v1.4.1/youtube_origin_googletv_x86_64_release50.zip)** `93.50 MB`
 
 ##### Support and discuss more at [XDA Forums](https://xdaforums.com/t/app-android-tv-youtube-origin-for-google-tv.4699190/).
 
@@ -112,11 +115,11 @@ After installation, launch app to enjoy YouTube Origin.
 
 ## Changes
 
-#### Version 1.3.9 `06.01.2025`
-- Updated to v1.64.0 (uBlock Origin)
-- Updated to v5.12.4 (SponsorBlock)
+#### Version 1.4.1 `07.29.2025`
+- Updated to v5.30.304 (YouTube for Android TV)
+- Updated to v1.65.0 (uBlock Origin)
+- Updated to v5.14 (SponsorBlock)
 - Updated the latest rendering engine
-- Optimized for Google TV Streamer with the latest firmware version (April 2025)
 - Updated post #1 on XDA & GitLab for more details.
 
 ---
