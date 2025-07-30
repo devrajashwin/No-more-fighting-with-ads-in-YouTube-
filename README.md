@@ -14,8 +14,8 @@
 - Watch YouTube without ads
 - Original UI
 - Compatible with Google TV
-- Support for official Widevine DRM for on-demand video content in Movies & TV (*) 
-- Support hardware decoding
+- Hardware decoding support
+- Support official Widevine DRM for on-demand video content in **Movies & TV** (*) 
 - Remove over-sharpening for video playback
 - Block ads with **uBlock Origin**
 - Skip sponsor segments with SponsorBlock
